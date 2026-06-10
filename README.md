@@ -1,5 +1,3 @@
-# Journal.md
-
 # Robotic Additive Manufacturing System
 
 ## Vision
