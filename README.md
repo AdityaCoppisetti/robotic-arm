@@ -1,6 +1,6 @@
-# Robotic Additive Manufacturing System
 
-## Vision
+
+Vision
 
 My long-term goal is to develop robotic additive manufacturing systems capable of producing large-scale structures and eventually contribute to automated construction technologies.
 
@@ -8,11 +8,8 @@ Rather than building a robotic arm as a standalone project, I am treating the ar
 
 Inspired by industrial robotic printing systems and large-format additive manufacturing research, this project aims to explore the intersection of robotics, software, and digital fabrication.
 
----
-
-# Project Goals
-
-## Phase 1 — Robotic Arm
+ Project Goals
+Phase 1 — Robotic Arm
 
 Build a 6-axis robotic manipulator capable of:
 
@@ -22,7 +19,7 @@ Build a 6-axis robotic manipulator capable of:
 * Programmable trajectories
 * End-effector attachments
 
-### Objectives
+ Objectives
 
 * Design all major components in CAD
 * Manufacture components using 3D printing
@@ -30,13 +27,12 @@ Build a 6-axis robotic manipulator capable of:
 * Implement forward and inverse kinematics
 * Create a desktop control application
 
----
 
-## Phase 2 — Robotic 3D Printing
+ Phase 2 — Robotic 3D Printing
 
 Replace the gripper with an extrusion system.
 
-### Objectives
+Objectives
 
 * Mount a lightweight extrusion head
 * Synchronize extrusion with robot movement
@@ -46,11 +42,11 @@ Replace the gripper with an extrusion system.
 
 ---
 
-## Phase 3 — Vision and Automation
+ Phase 3 — Vision and Automation
 
 Integrate computer vision and intelligent control.
 
-### Objectives
+Objectives
 
 * Object detection
 * Calibration systems
@@ -60,11 +56,11 @@ Integrate computer vision and intelligent control.
 
 ---
 
-## Phase 4 — Large-Scale Manufacturing
+Phase 4 — Large-Scale Manufacturing
 
 Scale the system beyond desktop printing.
 
-### Objectives
+Objectives
 
 * Increase reach and working volume
 * Improve structural rigidity
@@ -73,11 +69,11 @@ Scale the system beyond desktop printing.
 
 ---
 
-# Current Status
+ Current Status
 
-## Research
+ Research
 
-### Studying
+Studying
 
 * Industrial robot architectures
 * Forward kinematics
@@ -86,7 +82,7 @@ Scale the system beyond desktop printing.
 * Additive manufacturing
 * Robotic extrusion systems
 
-### References
+References
 
 * PAROL6 Desktop Robot Arm
 * BCN3D Moveo
@@ -97,33 +93,33 @@ Scale the system beyond desktop printing.
 
 ---
 
-# Engineering Log
+ Engineering Log
 
-## YYYY-MM-DD
+ YYYY-MM-DD
 
-### Progress
-
-* ...
-
-### Problems Encountered
+Progress
 
 * ...
 
-### Solutions
+ Problems Encountered
 
 * ...
 
-### Lessons Learned
+Solutions
 
 * ...
 
-### Next Steps
+ Lessons Learned
+
+* ...
+
+Next Steps
 
 * ...
 
 ---
 
-# Milestones
+ Milestones
 
 * [ ] Joint 1 (Base Rotation)
 * [ ] Joint 2 (Shoulder)
@@ -141,10 +137,7 @@ Scale the system beyond desktop printing.
 * [ ] Computer Vision Integration
 * [ ] Autonomous Printing Demo
 
----
 
-# Future Company Vision
 
-The ultimate objective of this project is to explore robotic manufacturing systems that can produce large-format structures efficiently and autonomously.
 
-This repository documents the research, engineering decisions, failures, successes, and lessons learned throughout that journey.
+This repository documents the research, engineering decisions, failures, successes, and lessons learned throughout that journey check journal.md for proper documentation.
