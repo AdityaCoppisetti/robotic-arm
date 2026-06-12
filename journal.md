@@ -8,6 +8,8 @@ today is 12th june but this is the work that i did on june 11th. due to a hectic
 
 so i was searching for way to make this , thinking of a ton of designs and i thought this would be really easy. i was wrong.
 i took me 45 mins until i landed on this- https://www.printables.com/model/930858-3d-printed-robotic-arm-actuator/files
+this is whats called a planetary gear mechanism. very popularly used amoung projects like this.
+Planetary gear mechanisms provide superior high torque density, allowing them to transmit large loads in a compact, lightweight design by distributing force across multiple planet gears
 
 <img width="1112" height="475" alt="image" src="https://github.com/user-attachments/assets/6631c75f-6018-44dd-884f-2097b6933205" />
 
@@ -19,8 +21,14 @@ until i picked up this project i didnt even know what a planetary gear shift sys
 i found this of great help! -https://www.thecatalystis.com/gears/
 this is a website that helps you simulate the planetary gear system.
 i was thinking of 3d printing the gears aswell but i found cheap planet gears on amazon- 
+https://www.amazon.in/gp/product/B0G2J7PGLC/ref=ox_sc_act_image_1?smid=A3MLO3EZOE585&psc=1
+the reason i went with this is of the material they are made of(nylon) and the fact they come pre prepared with bearings.
 
 <img width="1203" height="549" alt="Screenshot From 2026-06-12 05-52-59" src="https://github.com/user-attachments/assets/23be522a-fcfa-4fc4-9995-5ab29630bb29" />
+
+
+now now its okay if you want to save money and print the planet gears yourself, you can do that just double click on the mechanism and 
+press center bore and then put the diameter bearing youre using
 
 and so i opened the plantery mechanism similation on the website and typed in - 36 teeth in the planet ring.
 and it gave me the other info that i needed.
@@ -31,16 +39,21 @@ and it gave me the other info that i needed.
 and so i opened onshape and started a new document. 
 
 you have to press the add custom feature button on the toolbar
+
 <img width="225" height="182" alt="image" src="https://github.com/user-attachments/assets/de2b9039-6506-4106-af53-fd9bdd24846a" />
 
 and then you have to press this 
+
+
 <img width="298" height="87" alt="image" src="https://github.com/user-attachments/assets/3832d10f-1759-491f-bd54-7f004fc17e74" />
 
 and then just search planetary gear.
 
 you then have to go back to the planetary gear simulation and fill in the information accordingly.
 
+
 <img width="1259" height="855" alt="image" src="https://github.com/user-attachments/assets/47961d98-5395-4f7d-9215-ca223328449d" />
+
 
 MAKE SURE YOU PUT THAT YOU HAVE 3 PLANET RINGS.
 
@@ -50,6 +63,42 @@ IF YOU EVER WANT TO LEARN MORE ABOUT GEARS AND THEIR MECHANISMS HERE IS THE BEST
 https://www.3dmechanism.com/
 
 now that the mechanism is done we have to work on whats called the **CARRIER**
+
+now there are alerady a ton of good pre made designs in the onshape public library which i couldve used but once again this was my first time working with gears , cad and the whole circus.
+so i desiced it was a good learning moment and i fucked around to find out.
+here is the design i saw and i wanted to make this but i took me a WHILE to find out how this works.
+
+
+<img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/03de780d-9a7c-48d2-8ff9-e517690f95b0" />
+
+this is the carrier design i had in mind. now this carrier is pretty well made but i wanted to know how it worked.
+i couldnt use this carrier design exactly because its for 4 planets while we are only using 3. i think 3 is plenty
+i couldve used just a simple triange as a carrier because of three planets but i lowk didnt know where or how to make a triangle like this-
+
+<img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/83709ac2-7b11-4e91-9ad6-79ee5a18757c" />
+
+but i did not understand it and that helped me in its own way.
+
+i reverse engineered this- 
+
+<img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/b29563e0-40d2-46fd-b6e7-f1270d41fa38" />
+
+and made my own-
+( i know it aint that good but its workable)
+
+<img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/0a1094ab-30ba-4271-9ce7-b3f7fb59c3f1" />
+
+this is the base of the carrier because of the centre hole thats there so i can connect the sun gear ( the middle one) to the stepper motor.
+
+
+and then this is the top one 
+
+https://github.com/user-attachments/assets/65983f79-6701-4788-a28f-240e8ea89d8b
+
+
+
+
+
 
 
 
