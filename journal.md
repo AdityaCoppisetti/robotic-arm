@@ -92,8 +92,25 @@ this is the base of the carrier because of the centre hole thats there so i can 
 
 
 and then this is the top one 
+<img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/dba9ed26-3574-47e7-822e-dbf44ef76e56" />
 
-https://github.com/user-attachments/assets/65983f79-6701-4788-a28f-240e8ea89d8b
+
+and then put together it looks something like this- 
+all of this, including figuring out how to do cad and how onshape works and what planetary gear mechanism took me about 4 hours to figure out.
+
+
+https://github.com/user-attachments/assets/15bbe72e-d050-4046-b9d4-a2d1aa677c6d
+
+
+
+
+
+time logged- aprox 4.2hours
+
+if you have any questions - dm me directly on slack, my username is adityacoppisetti 
+
+
+
 
 
 
