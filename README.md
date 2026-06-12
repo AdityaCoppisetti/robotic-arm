@@ -1,9 +1,5 @@
 
 
-Vision
-
-My long-term goal is to develop robotic additive manufacturing systems capable of producing large-scale structures and eventually contribute to automated construction technologies.
-
 Rather than building a robotic arm as a standalone project, I am treating the arm as a manufacturing platform that can later be equipped with extrusion systems, computer vision, and autonomous control software.
 
 Inspired by industrial robotic printing systems and large-format additive manufacturing research, this project aims to explore the intersection of robotics, software, and digital fabrication.
