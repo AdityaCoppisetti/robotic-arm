@@ -117,7 +117,7 @@ Next Steps
 
  Milestones
 
-* [ ] Joint 1 (Base Rotation)
+* [.] Joint 1 (Base Rotation)
 * [ ] Joint 2 (Shoulder)
 * [ ] Joint 3 (Elbow)
 * [ ] First Motion Test
