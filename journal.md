@@ -125,7 +125,7 @@ i know i know it looks weird but this is my first time making one and that inclu
 
 <img width="589" height="698" alt="Screenshot From 2026-07-08 18-08-47" src="https://github.com/user-attachments/assets/faba595e-e3b4-4cb3-839b-69bd1546db00" />
 
-okay so now onto the joint 2.
+## okay so now onto the joint 2.
 
 <img width="415" height="379" alt="image" src="https://github.com/user-attachments/assets/24ed4faa-5884-44b8-a17d-10b325fd0093" />
 
@@ -197,6 +197,58 @@ this allows me to mount the pieces and let them carry that weight and not just h
 and then this is what the forearm looks like. it has holes to mount the outer ring to.
 
 <img width="601" height="739" alt="image" src="https://github.com/user-attachments/assets/fa844d63-aac4-4bd2-9092-c6cbae0f443e" />
+
+
+okay so earlier what we were doing was the outer ring was moving. 
+but for this joint. the outer ring will be mounted to the forearm and the carriers will move. 
+this is good for the weight distrubution.
+
+this also gives me the excuse to use belt mechanism. i will be updating that dw. 
+
+
+## now onto the joint 3.
+
+i left a gap so that we could mont the outer ring carefully.
+
+<img width="601" height="739" alt="image" src="https://github.com/user-attachments/assets/8053e479-decc-402e-9ba2-7ac01e2b1ceb" />
+
+i put some holes in the ring because we need to mount it so we will put a thread insert.
+
+<img width="778" height="813" alt="image" src="https://github.com/user-attachments/assets/93aa4aaa-98ca-4fea-995d-72a257039d0e" />
+
+
+
+<img width="778" height="813" alt="image" src="https://github.com/user-attachments/assets/65e5e61b-7a23-4aea-829c-6e341e16a095" />
+
+these are to keep the gears in their disired spot
+
+
+<img width="959" height="662" alt="image" src="https://github.com/user-attachments/assets/bfe4ce88-eb8c-41a1-b69c-8b31cc7105a9" />
+
+
+and then those "carrier are connected to another forearms and then connected to its own "outer ring" . 
+
+all together it looks like this 
+
+<img width="959" height="662" alt="image" src="https://github.com/user-attachments/assets/7907defd-ba60-4d53-afa0-cb56b1939ac1" />
+
+and then i made this. the forearm is short and then there is a flat sqare put on it. why? ill explain later. 
+
+<img width="959" height="662" alt="Screenshot From 2026-07-09 01-02-05" src="https://github.com/user-attachments/assets/9ce198a0-b6e2-4002-884c-26dc3803e95f" />
+
+
+<img width="959" height="662" alt="Screenshot From 2026-07-09 01-02-09" src="https://github.com/user-attachments/assets/3a5e55ea-2f05-43b8-a7c8-975eb8bbfe47" />
+
+
+<img width="683" height="546" alt="Screenshot From 2026-07-09 01-02-21" src="https://github.com/user-attachments/assets/d7a67370-62a9-4e74-a8d8-cdbe876288c6" />
+
+
+
+
+
+
+
+
 
 
 
