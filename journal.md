@@ -245,6 +245,20 @@ and then i made this. the forearm is short and then there is a flat sqare put on
 
 
 
+see the thing is for the wrist movement and attachment i want to make something like this- 
+
+<img width="457" height="622" alt="Screenshot From 2026-07-08 18-21-21" src="https://github.com/user-attachments/assets/5512a5b9-2f15-49d0-a8f7-cd31bb7fc9a4" />
+
+source- https://www.instructables.com/Yet-Another-3D-Printed-Robot-Arm/ 
+
+you just have to scroll down a ton. dw its there. 
+
+
+
+https://github.com/user-attachments/assets/bfe6638c-dc26-4a09-b7fa-06951944e07d
+
+
+
 
 
 
