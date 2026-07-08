@@ -107,7 +107,102 @@ https://github.com/user-attachments/assets/15bbe72e-d050-4046-b9d4-a2d1aa677c6d
 
 time logged- aprox 4.2hours
 
-if you have any questions - dm me directly on slack, my username is adityacoppisetti 
+date- july 8th, 2026
+
+yes i havent worked on this project in a while.
+but i have made tons of progress
+
+i made multiple joints. 
+at first i was really really confused about what and how im gonna make the other joints. 
+it may be because i havent done this kind of work in a while. it feels refreshing and really good to get my mind working again. 
+
+ive made until this and only one portion remains. 
+
+<img width="589" height="698" alt="Screenshot From 2026-07-08 18-09-43" src="https://github.com/user-attachments/assets/4bbc6618-f942-467d-89e4-36a3a53d5381" />
+
+i know i know it looks weird but this is my first time making one and that includes first time using cad.
+
+
+<img width="589" height="698" alt="Screenshot From 2026-07-08 18-08-47" src="https://github.com/user-attachments/assets/faba595e-e3b4-4cb3-839b-69bd1546db00" />
+
+okay so now onto the joint 2.
+
+<img width="415" height="379" alt="image" src="https://github.com/user-attachments/assets/24ed4faa-5884-44b8-a17d-10b325fd0093" />
+
+my idea was that if the planetary gears stay in place , the sun gear obviously stays in the middle, 
+by that logic then the outer ring would rotate.
+
+this is what i meant. 
+i used the https://www.thecatalystis.com/gears/ website to demonstrate my idea.
+
+
+
+https://github.com/user-attachments/assets/46c02f40-51b7-4518-86ec-1d51c42bed83
+
+
+this is basically what i meant. 
+notice how the outer ring is spinning and the planetary gears are spinning but not moving their positions.
+also notice that the sun gear is moving in the opposite direction for it to move clockwise.
+
+sun gear=anti clockwise
+outer ring= clockwise.
+
+keep this in mind cause its gonna be cruical to not forget.
+
+in the "carrier" that puts the planetary gears in their position , i wanted to put small holes to put heat inserts into but onshape is glitching and not letting me do that so i might drill a little hole and put the heat insert that way
+
+<img width="833" height="817" alt="image" src="https://github.com/user-attachments/assets/c68ba958-2a2f-495a-9316-ad226d6b4f6b" />
+
+i put this motor mount but i lowk want to make it better which i will later on. instead of wasting filament to add structure i might just put like really long screws.
+
+
+<img width="833" height="817" alt="image" src="https://github.com/user-attachments/assets/46d215ae-f747-4949-9187-91d1c813e4c4" />
+
+ALSO a really big mistake i made was that i was doing this to increase the length of my gears and allat. 
+
+
+
+https://github.com/user-attachments/assets/ec140412-38f2-4429-8a6d-367094285359
+
+
+
+
+
+which was basically just me copying the part and then stacking it on top of it and then combining it into one singular part using the boolean feature. 
+it was extremely time taking oh god so i looked around and let me tell you that i felt like a dumbfounded idiot when i found that i can just do this
+
+
+
+
+https://github.com/user-attachments/assets/3397579b-ed96-481c-a308-d51986f8bd29
+
+
+
+you can just change the extrude depth here.
+
+<img width="420" height="571" alt="image" src="https://github.com/user-attachments/assets/855aadfe-a379-4e58-b337-fe0f8c5c2839" />
+
+cause this at the same time makes the gear length also bigger.
+
+this is my logic.
+
+<img width="926" height="613" alt="image" src="https://github.com/user-attachments/assets/e966b705-1071-4577-8155-5f62005f4413" />
+
+there is a tinyyyy tinyyyy gap there and i will be putting whats called a lazy susan bearing
+
+<img width="1203" height="626" alt="image" src="https://github.com/user-attachments/assets/5c5ad280-b3c8-4053-9773-ce517ad1dc30" />
+
+this allows me to mount the pieces and let them carry that weight and not just hang from the carrier , but also the main support structure.
+
+and then this is what the forearm looks like. it has holes to mount the outer ring to.
+
+<img width="601" height="739" alt="image" src="https://github.com/user-attachments/assets/fa844d63-aac4-4bd2-9092-c6cbae0f443e" />
+
+
+
+
+
+
 
 
 
