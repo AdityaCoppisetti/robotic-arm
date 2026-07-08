@@ -263,23 +263,11 @@ this is basically how it'll work. seems complicated but i know it isnt, pretty s
 
 https://github.com/user-attachments/assets/02b2b4d9-ed3f-49f6-b729-89860f96fb4b
 
+I SAW THIS REEL WHERE THE MOTOR COVER , the filament part on the side was resin printed so it was CLEARRRRRRRRRRR WHICH WAS SO FUN!!!
+
+I REALLY REALLY WANT TO DO THAT IF MY BUDGET HAS ANY ROOM. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/cf3f4451-7ed7-4512-8826-a6093ded6a33
 
