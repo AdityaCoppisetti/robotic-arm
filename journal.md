@@ -334,6 +334,9 @@ this basically-
 
 <img width="550" height="519" alt="image" src="https://github.com/user-attachments/assets/6b6e58d2-c4e9-4fa8-9b7c-60fe4dd97996" />
 
+i went ahead and made a hole in the sun gear support cylinder so i can mount the belt gear mechanism easily.
+
+<img width="801" height="742" alt="image" src="https://github.com/user-attachments/assets/86495b9a-a28a-4a52-b8ac-039428391d67" />
 
 
 
