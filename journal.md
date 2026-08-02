@@ -363,4 +363,8 @@ and then for the limit switches i made this pretty simple mechanism
 althought i do feel like i should make it a bit bigger. 
 
 
+all put together it looks like this- 
+
+
+## <img width="724" height="653" alt="image" src="https://github.com/user-attachments/assets/a7f0e009-c42d-4cf3-9736-3c02eb3c0246" />
 
