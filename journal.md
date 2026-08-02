@@ -355,4 +355,12 @@ and then at the very end of those gears i have added holes for heat inserts
 once again ill be using washers and screws to mount them securely. 
 atp i should just use mansory glue lmao
 
+and then for the limit switches i made this pretty simple mechanism 
+
+
+<img width="724" height="653" alt="image" src="https://github.com/user-attachments/assets/dba569b4-13bf-470b-8112-db08f46d7a68" />
+
+althought i do feel like i should make it a bit bigger. 
+
+
 
