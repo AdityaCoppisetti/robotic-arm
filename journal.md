@@ -343,5 +343,16 @@ once again these are the gear teeth and allat
 <img width="221" height="484" alt="image" src="https://github.com/user-attachments/assets/2e08b888-7f1b-40be-b3d0-a133eb58c73c" />
 
 
+and then the carrier , i just have a cylinder running between each of the gears
+
+<img width="724" height="653" alt="image" src="https://github.com/user-attachments/assets/1059b6eb-c29b-477c-abf8-eb4856184c6c" />
+
+
+and then at the very end of those gears i have added holes for heat inserts 
+
+<img width="724" height="653" alt="image" src="https://github.com/user-attachments/assets/ce14f9ed-54db-4c8d-a430-7a2f380a2a1c" />
+
+once again ill be using washers and screws to mount them securely. 
+atp i should just use mansory glue lmao
 
 
