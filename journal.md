@@ -284,4 +284,58 @@ there were several flaws -
 5) i increased the planetary gear depth and so needed to update the carrier since it was too short and wouldnt work
 
 
+like look at how thin and bad it was previously- 
+
+<img width="671" height="601" alt="image" src="https://github.com/user-attachments/assets/aba05abf-9fc4-40b2-a121-82c4fcaf7a4d" />
+
+i think it had so many flaws because it was the first thing i had designed in cad after a LONGGGGG TIME 
+so after a ton of practice building this project and many other i got faimliar with the software and cad itself and got slightly better at it.
+
+here is what the new design looks like- 
+
+
+<img width="671" height="601" alt="Screenshot From 2026-08-02 10-53-35" src="https://github.com/user-attachments/assets/fbab134a-10b3-44d3-9070-3984373e9cd0" />
+
+
+here is a video showing the design properly -
+
+
+https://github.com/user-attachments/assets/b235d558-9b16-4ba0-b130-88022c7480a6
+
+
+
+the base i made with the intent to mount the motor to 
+
+<img width="671" height="601" alt="image" src="https://github.com/user-attachments/assets/816cacdd-7c8a-44b7-b3a0-dbc56d132ccf" />
+
+
+this will hold the motor aswell as give support to the base actuator. 
+
+i put holes beneath to put heat inserts and then use screws and washers to secure it properly
+
+
+<img width="797" height="478" alt="image" src="https://github.com/user-attachments/assets/d8efb5fa-ead6-41b7-aa4d-41b7cf6c3752" />
+
+
+
+mounted it would look smth like this- 
+
+<img width="866" height="605" alt="image" src="https://github.com/user-attachments/assets/3a20bcd1-ce7b-4f3e-8b39-fc463daf5212" />
+
+
+## sun gear
+
+
+i changed the sun gear kinda , i added this middle support so i can put the gear and belt mechanism properly 
+
+<img width="550" height="519" alt="image" src="https://github.com/user-attachments/assets/06c192e3-36d7-4f8c-a681-5ffec9cc70c8" />
+
+this basically- 
+
+<img width="550" height="519" alt="image" src="https://github.com/user-attachments/assets/6b6e58d2-c4e9-4fa8-9b7c-60fe4dd97996" />
+
+
+
+
+
 
