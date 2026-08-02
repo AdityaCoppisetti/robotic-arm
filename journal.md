@@ -368,3 +368,16 @@ all put together it looks like this-
 
 ## <img width="724" height="653" alt="image" src="https://github.com/user-attachments/assets/a7f0e009-c42d-4cf3-9736-3c02eb3c0246" />
 
+## August 2nd 6.27 
+i made some changes in the **joint 2**
+
+i made a proper space for the motor and i put a lil tab for the limit switches
+
+
+<img width="1024" height="658" alt="image" src="https://github.com/user-attachments/assets/9c0564be-ec2f-48fb-8f06-a7f41d7645c7" />
+
+
+not much a difference 
+
+OH AND i also changed the base plate of this part so i t mounts properly and accurately. 
+
