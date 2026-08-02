@@ -271,3 +271,17 @@ I REALLY REALLY WANT TO DO THAT IF MY BUDGET HAS ANY ROOM.
 
 https://github.com/user-attachments/assets/cf3f4451-7ed7-4512-8826-a6093ded6a33
 
+
+
+## august 2nd time - 10.54
+
+# i just got done rebuilding the base of the robotic arms. 
+there were several flaws -
+1) the motor mount wasnt good and would leave the motor sitting by itself or like lifting the entire load.
+2) i intend to use a belt driven planetary gear mechanism and that design wount let me do that so i had to redesigns everything
+3) the base was too weak to carry the weight
+4) there wasnt any space for limit switches
+5) i increased the planetary gear depth and so needed to update the carrier since it was too short and wouldnt work
+
+
+
