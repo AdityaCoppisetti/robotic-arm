@@ -338,6 +338,9 @@ i went ahead and made a hole in the sun gear support cylinder so i can mount the
 
 <img width="801" height="742" alt="image" src="https://github.com/user-attachments/assets/86495b9a-a28a-4a52-b8ac-039428391d67" />
 
+once again these are the gear teeth and allat 
+
+<img width="221" height="484" alt="image" src="https://github.com/user-attachments/assets/2e08b888-7f1b-40be-b3d0-a133eb58c73c" />
 
 
 
