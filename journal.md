@@ -381,3 +381,10 @@ not much a difference
 
 OH AND i also changed the base plate of this part so i t mounts properly and accurately. 
 
+## August 3rd 2.13 pm
+
+i worked on all the joint's motor mounts and in the end i made this i have very minor changes to make and now i have to make the last 2 axis mechanisms. 
+
+<img width="623" height="718" alt="image" src="https://github.com/user-attachments/assets/772b1588-41f7-4405-823d-7b588bb46113" />
+
+
