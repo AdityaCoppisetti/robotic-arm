@@ -1,3 +1,7 @@
+
+
+
+
 this is where ill be journaling my work.
 
 Date- june-12/2026
@@ -388,3 +392,6 @@ i worked on all the joint's motor mounts and in the end i made this i have very 
 <img width="623" height="718" alt="image" src="https://github.com/user-attachments/assets/772b1588-41f7-4405-823d-7b588bb46113" />
 
 
+better view- 
+
+https://github.com/user-attachments/assets/d6cfd987-f96c-4dd9-8066-cd05eacd0aab
