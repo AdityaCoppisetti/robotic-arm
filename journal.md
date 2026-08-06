@@ -459,3 +459,7 @@ i added this little piece so that i can use it to press limit switches i mounted
 
 
 also these are the measurements for the nem17 motors i found from the robu.in website 
+
+<img width="772" height="802" alt="image" src="https://github.com/user-attachments/assets/89031aa8-fc8d-4ff6-950c-fedd4ef72d59" />
+
+
