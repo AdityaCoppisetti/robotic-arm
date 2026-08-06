@@ -482,3 +482,4 @@ all put togehter this looks something like this -
 
 <img width="741" height="660" alt="image" src="https://github.com/user-attachments/assets/e3650d38-a8f4-481b-98d0-3c1016067ee4" />
 
+also i realised allmost everyone else my calculations for the motor are wrong so im going to fix that, only minor fixes nothing to worry about alot
