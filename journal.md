@@ -423,7 +423,7 @@ i have to say i had alot of fun making this.
 
 i followed some youtube video ( not tutorials just demonstrations) and made the design in my mind first and then carried it out in onshape.
 
-i ended up with this 
+i ended up with this oh and i used helical gears
 
 <img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/e3982232-2552-49d9-8830-21578a70edd4" />
 
