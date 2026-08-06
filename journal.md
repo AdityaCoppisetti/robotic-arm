@@ -477,3 +477,8 @@ this would make the wiring easier fsfsfsfs
 
 
 i then made this bottom mount so , im gonna put in heat inserts and then screw everything into place, and then i added to holes so that i can mount it using screws and washers onot the robotic arm itself
+
+all put togehter this looks something like this - 
+
+<img width="741" height="660" alt="image" src="https://github.com/user-attachments/assets/e3650d38-a8f4-481b-98d0-3c1016067ee4" />
+
