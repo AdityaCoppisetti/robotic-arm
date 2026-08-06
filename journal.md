@@ -468,6 +468,12 @@ and then here is the schematic design
 
 AAAAAAAAAAAAA I STILL NEED TO DESIGN THE ELECTRICALS AFTER IM DONE W THE CAD AAAAAAAAAA 
 
+oh yeah back to the holder for the motor and allat
+
+i included this lill space so i can put the wires thru this which looks good ig idk 
+this would make the wiring easier fsfsfsfs
+
+<img width="760" height="543" alt="image" src="https://github.com/user-attachments/assets/feb00dcf-eefd-4986-882c-96cae4b9393d" />
 
 
-
+i then made this bottom mount so , im gonna put in heat inserts and then screw everything into place, and then i added to holes so that i can mount it using screws and washers onot the robotic arm itself
