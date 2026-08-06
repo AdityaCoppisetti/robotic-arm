@@ -404,6 +404,15 @@ i actually made the 2 dof wrist yesterday and i thought that would be it.
 
 heres how it looked , i deleted the file due to so many inaccuracies
 
+<img width="534" height="513" alt="image" src="https://github.com/user-attachments/assets/1d820cfc-c40a-4a34-a416-c379d3bc579d" />
+there are so many faults i cant even 
+
+
+
+https://github.com/user-attachments/assets/077f853c-312a-4f89-8bd1-733a6afe177f
+
+
+
 as it turns out my calculations where wrong and bisdes that i had done alot of things freehand, 
 and so i needed to redesign the entire thing again but with precise calculations.
 i have to say i had alot of fun making this.
@@ -485,3 +494,4 @@ all put togehter this looks something like this -
 <img width="741" height="660" alt="image" src="https://github.com/user-attachments/assets/e3650d38-a8f4-481b-98d0-3c1016067ee4" />
 
 also i realised allmost everyone else my calculations for the motor are wrong so im going to fix that, only minor fixes nothing to worry about alot
+
