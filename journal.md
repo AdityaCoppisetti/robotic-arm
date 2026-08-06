@@ -395,3 +395,62 @@ i worked on all the joint's motor mounts and in the end i made this i have very 
 better view- 
 
 https://github.com/user-attachments/assets/d6cfd987-f96c-4dd9-8066-cd05eacd0aab
+
+
+
+## AUGUST 6TH TIME- 4.08PM
+
+i actually made the 2 dof wrist yesterday and i thought that would be it.
+
+as it turns out my calculations where wrong and bisdes that i had done alot of things freehand, 
+and so i needed to redesign the entire thing again but with precise calculations.
+i have to say i had alot of fun making this.
+
+i followed some youtube video ( not tutorials just demonstrations) and made the design in my mind first and then carried it out in onshape.
+
+i ended up with this 
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/e3982232-2552-49d9-8830-21578a70edd4" />
+
+i know it looks like i can make it more compact but i did measure everthing and the nem17 motors are 40mm ( 4cm ) and they wouldnt fit at all.
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/1e560d2a-885c-408a-9976-77d4fe4bf4dc" />
+
+there is this cylindrical shape so i can put it on gearing and itll be able to rotate freely
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/776e20e3-4518-4a76-8ec8-ab4ab6a440a1" />
+
+and then this is so that i can mount Aluminum Timing Pulley. its 5mm.
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/fef4bfb3-fec8-4a38-868f-d10bb58e60df" />
+
+and i guess i can call this square a carrier?
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/6f9dac8c-7e60-4c14-a2ef-ad4c35933549" />
+
+it has space for the gearing from the other side to go and the gears would stay in place.
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/1a4b7c73-ac2c-46d6-8bc1-27f18abf14ec" />
+
+and then this is the top surface where ill later put the gripper claw.
+
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/c94701af-e3dd-4522-8409-ab9f416cff93" />
+
+
+i also need to put a camera mounting thingy so that i can later on put a camera on it. honestly just my phone beause i dont think itll be able to handle the weight of my camera.
+
+# now onto the whole holder which will house the nem17 motor 
+
+this is the left side,
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/a678c17e-2a6b-41e8-9aea-d3f175f16216" />
+
+i plan on mounting the stepper motors on top of each other 
+
+the motor width regardless of the shaft is 40mm (4cm) and so i put a little back piece there so the motors have no place to slide
+
+and ill just put a piece of cardboard there or smth i dont know plus it gives a lil space for the wires.
+
+also now do i think about it i need to put a lil limit switch bar on the surface mount
+
+
+
