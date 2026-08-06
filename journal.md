@@ -402,6 +402,8 @@ https://github.com/user-attachments/assets/d6cfd987-f96c-4dd9-8066-cd05eacd0aab
 
 i actually made the 2 dof wrist yesterday and i thought that would be it.
 
+heres how it looked , i deleted the file due to so many inaccuracies
+
 as it turns out my calculations where wrong and bisdes that i had done alot of things freehand, 
 and so i needed to redesign the entire thing again but with precise calculations.
 i have to say i had alot of fun making this.
