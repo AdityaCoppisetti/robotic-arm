@@ -453,4 +453,9 @@ and ill just put a piece of cardboard there or smth i dont know plus it gives a 
 also now do i think about it i need to put a lil limit switch bar on the surface mount
 
 
+i added this little piece so that i can use it to press limit switches i mounted it on the surface plated because the surface plate is the one thats moving in two axis
 
+<img width="1071" height="794" alt="image" src="https://github.com/user-attachments/assets/4f8a92ed-1230-40c5-9824-365a606940ff" />
+
+
+also these are the measurements for the nem17 motors i found from the robu.in website 
