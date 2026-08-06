@@ -462,4 +462,12 @@ also these are the measurements for the nem17 motors i found from the robu.in we
 
 <img width="772" height="802" alt="image" src="https://github.com/user-attachments/assets/89031aa8-fc8d-4ff6-950c-fedd4ef72d59" />
 
+and then here is the schematic design 
+
+<img width="546" height="634" alt="image" src="https://github.com/user-attachments/assets/30390a8b-66b5-4f32-908a-8a02877992cc" />
+
+AAAAAAAAAAAAA I STILL NEED TO DESIGN THE ELECTRICALS AFTER IM DONE W THE CAD AAAAAAAAAA 
+
+
+
 
