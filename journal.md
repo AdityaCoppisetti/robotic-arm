@@ -500,6 +500,10 @@ all put togehter this looks something like this -
 
 https://github.com/user-attachments/assets/72c732a2-6be2-4c8c-96ef-66e903738f73
 
+also i realised allmost everyone else my calculations for the motor are wrong so im going to fix that, only minor fixes nothing to worry about alot
+
+
+
 ## AUGUST 7TH 
 
 I worked on making the shoulder of the robotic arm proper, the closer i look at my designs the more i realise how much i fucked up.
@@ -511,8 +515,19 @@ this is the improved version-
 <img width="717" height="661" alt="image" src="https://github.com/user-attachments/assets/cb1d06a3-816b-4365-982e-d0be4004c5df" />
 
 
+i improved the carrier , i want to add bearing between the sun and planet gears and so i made a centre bore.
+
+i used the extrude feature to make the hole in the centre but you can just enter the dimension here - 
+
+<img width="223" height="436" alt="image" src="https://github.com/user-attachments/assets/8e9e2398-726d-4e34-94c5-f7262a0db954" />
+
+i also change the base mounting plate it was really shit 
+
+
+
+and then i fixed the motor mount
 
 
 
 
-also i realised allmost everyone else my calculations for the motor are wrong so im going to fix that, only minor fixes nothing to worry about alot
+
