@@ -574,6 +574,10 @@ and here is a lil 360 of the base-
 
 
 
-Uploading Screencast From 2026-08-07 13-42-34.mp4…
+
+
+https://github.com/user-attachments/assets/05f1c04c-e099-472e-9303-c13885892532
+
+
 
 
