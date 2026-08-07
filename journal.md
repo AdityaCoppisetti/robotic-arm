@@ -593,3 +593,5 @@ okay so i made these lil holes so that i can put heat insert (this is the wrist 
 
 <img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/a287d61d-17cf-4348-b1fd-65896a5ab196" />
 
+
+this is so that i can mount anything i want on it with ease. 
