@@ -497,6 +497,9 @@ all put togehter this looks something like this -
 
 <img width="741" height="660" alt="image" src="https://github.com/user-attachments/assets/e3650d38-a8f4-481b-98d0-3c1016067ee4" />
 
+
+https://github.com/user-attachments/assets/72c732a2-6be2-4c8c-96ef-66e903738f73
+
 ## AUGUST 7TH 
 
 I worked on making the shoulder of the robotic arm proper, the closer i look at my designs the more i realise how much i fucked up.
@@ -509,7 +512,7 @@ this is the improved version-
 
 
 
-https://github.com/user-attachments/assets/72c732a2-6be2-4c8c-96ef-66e903738f73
+
 
 
 also i realised allmost everyone else my calculations for the motor are wrong so im going to fix that, only minor fixes nothing to worry about alot
