@@ -595,3 +595,13 @@ okay so i made these lil holes so that i can put heat insert (this is the wrist 
 
 
 this is so that i can mount anything i want on it with ease. 
+
+
+oh and i went ahead and fixed this- 
+
+<img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/dca07e1d-af8d-46d6-baea-fb67570a11fc" />
+
+i think the arm is coming into great shape- 
+
+
+<img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/624c2ee6-baf8-475d-88d8-b3d2a979b11b" />
