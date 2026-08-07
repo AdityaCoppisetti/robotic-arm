@@ -519,7 +519,7 @@ i improved the carrier , i want to add bearing between the sun and planet gears 
 
 <img width="806" height="799" alt="image" src="https://github.com/user-attachments/assets/3bccb287-6b8c-4877-a07f-026f90a40165" />
 
-
+oh and the bearing i want to use are the 608zz bearing and its dimentions are- 
 i used the extrude feature to make the hole in the centre but you can just enter the dimension here - 
 
 <img width="223" height="436" alt="image" src="https://github.com/user-attachments/assets/8e9e2398-726d-4e34-94c5-f7262a0db954" />
@@ -541,4 +541,5 @@ believe it or not the hand drawn motor mount i made previously was not that far 
 
 all together it looks something like this - 
 
+<img width="871" height="373" alt="image" src="https://github.com/user-attachments/assets/fc2b96b7-d60e-4319-af80-fdd2032bf9e8" />
 
