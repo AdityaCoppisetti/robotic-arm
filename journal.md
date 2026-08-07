@@ -524,10 +524,16 @@ i used the extrude feature to make the hole in the centre but you can just enter
 i also change the base mounting plate it was really shit 
 
 
+ <img width="806" height="799" alt="image" src="https://github.com/user-attachments/assets/1a091d0c-a4f8-485f-875f-53cfa4994fc5" />
+
+i made 4 tiny hole to put the threaded insert inside and then those 3 holes along with that weird cylinder are to mount it on the base planetary mechanism itself.
+i was at first thinking of adding screws but just cylniders and some glue will help, you'll understand what i mean when i build it irl. 
 
 and then i fixed the motor mount
 
+<img width="806" height="799" alt="image" src="https://github.com/user-attachments/assets/f01fa5d8-37b2-4372-89cf-35b5305fd29c" />
 
+believe it or not the hand drawn motor mount i made previously was not that far off in terms of dimension so i made it PROPER proper ykwim. 
 
 
 
