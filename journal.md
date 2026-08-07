@@ -517,6 +517,9 @@ this is the improved version-
 
 i improved the carrier , i want to add bearing between the sun and planet gears and so i made a centre bore.
 
+<img width="806" height="799" alt="image" src="https://github.com/user-attachments/assets/3bccb287-6b8c-4877-a07f-026f90a40165" />
+
+
 i used the extrude feature to make the hole in the centre but you can just enter the dimension here - 
 
 <img width="223" height="436" alt="image" src="https://github.com/user-attachments/assets/8e9e2398-726d-4e34-94c5-f7262a0db954" />
@@ -535,5 +538,7 @@ and then i fixed the motor mount
 
 believe it or not the hand drawn motor mount i made previously was not that far off in terms of dimension so i made it PROPER proper ykwim. 
 
+
+all together it looks something like this - 
 
 
