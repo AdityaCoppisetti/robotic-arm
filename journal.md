@@ -605,3 +605,5 @@ i think the arm is coming into great shape-
 
 
 <img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/624c2ee6-baf8-475d-88d8-b3d2a979b11b" />
+
+whats remaining is to make the claw/ gripper
