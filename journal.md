@@ -541,5 +541,16 @@ believe it or not the hand drawn motor mount i made previously was not that far 
 
 all together it looks something like this - 
 
-<img width="871" height="373" alt="image" src="https://github.com/user-attachments/assets/fc2b96b7-d60e-4319-af80-fdd2032bf9e8" />
+For the 608ZZ bearing:
+
+Measurement	Millimeters	Centimeters
+Inner hole diameter	8 mm	0.8 cm
+Outer diameter	22 mm	2.2 cm
+Thickness (width)	7 mm	0.7 cm
+
+So in centimeters:
+
+Inner hole: 0.8 cm
+Outer diameter: 2.2 cm
+Thickness: 0.7 cm
 
