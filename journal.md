@@ -570,4 +570,10 @@ i fixed the motor mount and then i fixed the sun gear so that i can put a belt m
 
 <img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/34314c2c-b736-41db-819c-e7603b42146b" />
 
+and here is a lil 360 of the base- 
+
+
+
+Uploading Screencast From 2026-08-07 13-42-34.mp4…
+
 
