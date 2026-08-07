@@ -561,3 +561,13 @@ oh and i dont know if i mentioned this before-
 
 these holes are so i can put zip ties and cable put my wires neatly. 
 
+
+oh and i fixed the measurements in the base part of the arm- 
+
+<img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/25252619-982f-43bf-b128-c5f35922aacb" />
+
+i fixed the motor mount and then i fixed the sun gear so that i can put a belt mechanism on it. 
+
+<img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/34314c2c-b736-41db-819c-e7603b42146b" />
+
+
