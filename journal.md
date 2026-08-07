@@ -497,6 +497,15 @@ all put togehter this looks something like this -
 
 <img width="741" height="660" alt="image" src="https://github.com/user-attachments/assets/e3650d38-a8f4-481b-98d0-3c1016067ee4" />
 
+## AUGUST 7TH 
+
+I worked on making the shoulder of the robotic arm proper, the closer i look at my designs the more i realise how much i fucked up.
+
+i made it a bit better but i know in the future ill look back and sigh with all the inconsistancies. 
+
+this is the improved version- 
+
+<img width="717" height="661" alt="image" src="https://github.com/user-attachments/assets/cb1d06a3-816b-4365-982e-d0be4004c5df" />
 
 
 
