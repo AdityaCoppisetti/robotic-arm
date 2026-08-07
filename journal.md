@@ -589,4 +589,7 @@ https://github.com/user-attachments/assets/05f1c04c-e099-472e-9303-c13885892532
 
 
 
+okay so i made these lil holes so that i can put heat insert (this is the wrist mechanism) 
+
+<img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/a287d61d-17cf-4348-b1fd-65896a5ab196" />
 
