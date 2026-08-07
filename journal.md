@@ -562,6 +562,15 @@ oh and i dont know if i mentioned this before-
 these holes are so i can put zip ties and cable put my wires neatly. 
 
 
+here is how it looks all together 
+
+
+
+
+https://github.com/user-attachments/assets/92ba4edb-455b-4546-ade4-a52e37fcf780
+
+
+
 oh and i fixed the measurements in the base part of the arm- 
 
 <img width="1056" height="714" alt="image" src="https://github.com/user-attachments/assets/25252619-982f-43bf-b128-c5f35922aacb" />
