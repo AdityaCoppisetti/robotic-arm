@@ -554,3 +554,10 @@ Inner hole: 0.8 cm
 Outer diameter: 2.2 cm
 Thickness: 0.7 cm
 
+
+oh and i dont know if i mentioned this before- 
+
+<img width="539" height="572" alt="image" src="https://github.com/user-attachments/assets/5e59d346-135e-4199-920b-e573d322d58d" />
+
+these holes are so i can put zip ties and cable put my wires neatly. 
+
