@@ -660,10 +660,11 @@ and i wanted to design my cad design as precise so i pulled out this specificati
 but then i did not want to redesign the entire motor in onshape so i looked in public documents if someone had already deisgned it for me and sure enough someone had deisgned it!
 
 
+<img width="641" height="598" alt="image" src="https://github.com/user-attachments/assets/e99abcfa-611c-4083-8952-913f3d4fcccf" />
 
+i did measure it to see if it was accurate and it is 
 
-
-
+ill add the servo motor copy file into the repo!
 
 all of this is making me wonder if i should redesign the forearms now cause they look really bad 
 
