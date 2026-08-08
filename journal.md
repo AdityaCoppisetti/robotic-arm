@@ -613,3 +613,53 @@ oh and i updated this aswell-
 
 <img width="877" height="690" alt="image" src="https://github.com/user-attachments/assets/4606fdee-288d-489d-a28c-6c8f6c6868b8" />
 
+
+## AUGUST 8TH 8.12AM 
+GOOOOOOOOOOOOOOOOOOOOOOOOOD MORNINGGGGGGGGGGGGGGGG 
+
+yesterday i made the claw/gripper mechanism and i had alot of fun making it!
+i had this design in my mind ever since i started
+
+<img width="1161" height="933" alt="image" src="https://github.com/user-attachments/assets/565dbaf7-5556-4efb-9314-548006d38995" />
+
+
+here is a tutorial kinda? its just saying how it works 
+https://www.instructables.com/My-Big-Robot-Claw/
+
+and basically how it works is- 
+
+
+https://github.com/user-attachments/assets/29d53f73-7ce6-4bcc-ba2c-e7f5372ba941
+
+
+ and so i started making the design in onshape and at first i made this disgusting design and thought it would be okay 
+
+
+ <img width="867" height="519" alt="Screenshot From 2026-08-07 17-57-44" src="https://github.com/user-attachments/assets/2ec1309a-4843-48bc-b2b0-f252c754246e" />
+
+
+yes i know it looks so bad. i lowkey thought i would leave it be but then i got this urge to make it better and i thought why not give it another try and i made this which is much better in my opinion
+
+
+<img width="1098" height="809" alt="image" src="https://github.com/user-attachments/assets/16e02e52-6364-4c21-baa0-e9b5b2476c2b" />
+
+now this is much much better than the earlier design.
+
+<img width="1098" height="809" alt="image" src="https://github.com/user-attachments/assets/c090f98d-4f2d-43e8-be4a-5975c270f2f6" />
+
+im using 3 spur gears , 2 of them connected to the claw mechanism itself and then one is connected to the servo motor.
+
+in this design im using the TowerPro MG996R Digital High Torque Servo Motor.
+
+this is better than the shitty low quality servo motor 
+
+and i wanted to design my cad design as precise so i pulled out this specification of the motor
+
+<img width="544" height="245" alt="AWN9abVES4HJeKg18x0a8sXqbF1AeTm1wUe4BqLj" src="https://github.com/user-attachments/assets/d5090de4-2c22-475d-acb7-48450247fff5" />
+
+
+
+
+
+
+
