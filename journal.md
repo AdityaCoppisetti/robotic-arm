@@ -669,5 +669,16 @@ ill add the servo motor copy file into the repo!
 all of this is making me wonder if i should redesign the forearms now cause they look really bad 
 
 
+and so i followed that design on istructables.com and i made my design
+
+here is how it looks like from beneath.
+
+and then i made the the mount/ motor mount. i made it so i can mount it to the 2 dof wrsit. 
+
+i added this with holes so i can put heat inserts and mount it properly 
+
+<img width="984" height="588" alt="image" src="https://github.com/user-attachments/assets/433dec62-3362-44aa-8ed2-ea5a44858808" />
+
+
 
 
