@@ -657,9 +657,16 @@ and i wanted to design my cad design as precise so i pulled out this specificati
 
 <img width="544" height="245" alt="AWN9abVES4HJeKg18x0a8sXqbF1AeTm1wUe4BqLj" src="https://github.com/user-attachments/assets/d5090de4-2c22-475d-acb7-48450247fff5" />
 
+but then i did not want to redesign the entire motor in onshape so i looked in public documents if someone had already deisgned it for me and sure enough someone had deisgned it!
+
+
+
+
+
 
 
 all of this is making me wonder if i should redesign the forearms now cause they look really bad 
+
 
 
 
