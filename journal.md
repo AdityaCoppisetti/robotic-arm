@@ -694,3 +694,7 @@ i went ahead and added this support structure so the motor does infact stay in p
 <img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/9e65ba00-304d-4b9c-8688-9c80ebc36d6a" />
 
 
+oh and these holes are there so i can put it with bearings <img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/6b293701-ddf7-4699-98f3-e8aa4c525fc7" />
+
+
+and i added these holes for cable management using zip ties
