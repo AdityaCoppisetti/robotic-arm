@@ -689,5 +689,8 @@ okay so this is how the mount for the motor looks like-
 
 i have even added a hole for the wires to go thru and added holes to make sure the motor stays in place!
 
+i went ahead and added this support structure so the motor does infact stay in place 
+
+<img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/9e65ba00-304d-4b9c-8688-9c80ebc36d6a" />
 
 
