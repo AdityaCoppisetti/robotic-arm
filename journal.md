@@ -681,4 +681,13 @@ i added this with holes so i can put heat inserts and mount it properly
 
 
 
+okay so this is how the mount for the motor looks like- 
+
+
+<img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/813af399-930a-446f-b1fb-f49b55f99d1d" />
+
+
+i have even added a hole for the wires to go thru and added holes to make sure the motor stays in place!
+
+
 
