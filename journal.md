@@ -659,7 +659,7 @@ and i wanted to design my cad design as precise so i pulled out this specificati
 
 
 
-
+all of this is making me wonder if i should redesign the forearms now cause they look really bad 
 
 
 
