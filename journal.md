@@ -705,3 +705,5 @@ and i added these holes for cable management using zip ties
 
 i will be redesigning the forearms because they are hideous and not properly measured 
 
+lets do the forward and reverse kinematic of the arm tomorrow since its pretty late , lets for now design the robotic arm electronics hardware
+
