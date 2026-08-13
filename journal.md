@@ -707,3 +707,9 @@ i will be redesigning the forearms because they are hideous and not properly mea
 
 lets do the forward and reverse kinematic of the arm tomorrow since its pretty late , lets for now design the robotic arm electronics hardware
 
+my idea for the robotic arm is that i control it with the raspberry pi zero 2watt that sends the microcontroller directions on where to move and then 
+with the help of the stepper motor controller , the motors move. 
+
+so lets define that properly 
+and why im using a raspberry pico in the first place
+
