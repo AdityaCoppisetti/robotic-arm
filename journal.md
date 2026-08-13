@@ -713,3 +713,7 @@ with the help of the stepper motor controller , the motors move.
 so lets define that properly 
 and why im using a raspberry pico in the first place
 
+
+i want to use my robotic arm to 3d print stuff with the help of a hotend attachement , so i just want the raspberry pi 2w to take in the stl or .step file and then convert it 
+into directions the microcontroller will be able to read and then tell the arm where to move and how to move 
+
