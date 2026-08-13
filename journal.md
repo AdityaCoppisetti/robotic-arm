@@ -698,3 +698,10 @@ oh and these holes are there so i can put it with bearings <img width="972" heig
 
 
 and i added these holes for cable management using zip ties
+
+
+
+## august 13th 
+
+i will be redesigning the forearms because they are hideous and not properly measured 
+
