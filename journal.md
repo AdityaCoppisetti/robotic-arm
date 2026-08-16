@@ -917,4 +917,7 @@ also in this the carrier is the output
     now for our J5 and J6 we are using a 2 dof wrist
 
      so its going to be much different 
-we also need to remember while calculating that we are using 2 synchronised belt mechanisms for this 
+we also need to remember while calculating that we are using 2 synchronised belt mechanisms for this
+
+<img width="1163" height="626" alt="image" src="https://github.com/user-attachments/assets/2ff17c70-9375-4d8a-91f9-7193cb6608fe" />
+
