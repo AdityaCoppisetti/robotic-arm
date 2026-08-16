@@ -844,7 +844,7 @@ when i was figuring out the joint range in onshape i counted the joints and only
 
 apparenly i had made a mistake when putting the limit mechanism part of the joint 3 because it wasnt in line with the planetary mechanism's ring and which would have resulted in a differented origin and thus a different 180 degree point than anticipated 
 
-here is it fixed 
+here it is  fixed 
 
 <img width="708" height="688" alt="image" src="https://github.com/user-attachments/assets/1d286747-1112-4bcc-97d3-176b18a17de3" />
 
@@ -861,4 +861,23 @@ here is the planetary mechanism info
 <img width="225" height="484" alt="image" src="https://github.com/user-attachments/assets/854327a4-9b8b-44d9-adef-9bd5485acd16" />
 
 
+# Details 
 
+1) joint type - revolute
+2) mechanis - planetary gearbox
+3) motor - NEMA 17
+4) Motor is connected to the sun directly
+5) sun teeth - 18
+6) planet teeth - 36
+7) ring teeth - 90
+8) number of planets - 3
+9) ring- fixed
+10) output is carrier because only the carrier will be moving
+11) reduction 6:1
+12) joint range 0 degrees to 180 degrees
+13) calibration - origin is 0 degrees
+14) motor is at joint - j3+ motor angle ÷ 6
+15) motor rotation for 180 degrees J3 - 1080 degrees / 3 revolutions
+
+
+    
