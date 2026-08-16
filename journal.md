@@ -738,3 +738,6 @@ these are my tasks for today after im done with cad
 
 
 lets do all of this in a day , today is august 16th lets set this as todays task
+
+
+i have finished with the base cad design which we will be defining as the J1 ( joint one) 
