@@ -858,6 +858,7 @@ and even in this mechanism , the sun gear is attached to the motor directly and 
 
 here is the planetary mechanism info 
 
+<img width="225" height="484" alt="image" src="https://github.com/user-attachments/assets/854327a4-9b8b-44d9-adef-9bd5485acd16" />
 
 
 
