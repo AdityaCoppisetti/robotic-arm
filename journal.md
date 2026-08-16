@@ -952,3 +952,32 @@ well in order for the gear 3 to spin , the motor 2 that rotates the gear 2 has t
 i.e to move the gear 3 in z axis like the base mechanism axis , the motor 1 rotates anticlockwise and the motor 2 rotates clockwise 
 
 
+
+okay ive done the calculations now lets define the joint 5 
+
+## JOINT 5 
+
+<img width="271" height="486" alt="image" src="https://github.com/user-attachments/assets/5bfc4a55-d86e-4a96-8d8d-3daa73c6c4d6" />
+
+
+joint type - revolute 
+parent - link_4
+child_ link5 
+mechanism - 2-DOF differential wrist
+motor inputs - M1 + M2
+M1 transmission - 20 teeth to 60 teeth synchronised belt mechanism 
+M2 transmission 20 teeth to 60 teeth synchronised belt mechanism 
+belt stages - 1 per motor 
+belt type - open 
+belt reduction 3: 1 
+helical gear - gear 1 , 2 and 3
+gear teeth - 25 teeth each 
+helical gear ratio 1:1 
+J5 motion - rotation about z axis 
+motor movement for j5 - m1 ccw + m2 cw 
+reverse J5 - M1 CW + M2 CCw
+mechanical range - contrinuous / unlimited 
+calibration - origin is 0 at limit switch
+mechanical / software range - 0 to 180 degrees 
+reverse direction - opposite motor differential 
+
