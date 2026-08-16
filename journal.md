@@ -730,7 +730,7 @@ these are my tasks for today after im done with cad
 
 1. **Define the 6 joints** — identify J1–J6, what links they connect, their rotation axes, and their movement limits. 
 2. **Build the kinematic model** — define the coordinate frames and transformations between the joints. 
-3. **Export your CAD links as meshes** — usually STL/DAE for ROS. 
+3. **Export my CAD links as meshes** — usually STL/DAE for ROS. 
 4. **Create a ROS 2 package** for your robot. 
 5. **Create the URDF/Xacro** — links, joints, axes, positions, limits, meshes, and inertial properties. 
 
