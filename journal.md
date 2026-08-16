@@ -746,3 +746,5 @@ i have finished with the base cad design which we will be defining as the J1 ( j
 
 i added holes in the planet gears so i can put a gearing in them because i want everything to be really smooth
 
+on the outer ring , there is this little rectangle bit , thats where the limit switch will go , why?
+so see my plan is that when the robotic arm turns on , its going to need to know where the origin is , so its going to perform a calibration routine where the ring will rotate until it hits the limit switch and thus itll define the origin point
