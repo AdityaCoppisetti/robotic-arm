@@ -721,3 +721,6 @@ into directions the microcontroller will be able to read and then tell the arm w
 ## AUGUST 16TH
 
 i need to finsih up with cad man seriously this has taken so long 
+okay so i will be removing the limit switch bits that i made. 
+because all i want is -
+it to calibrate and then find the origin and then i can virtually set the mechanical stops 
