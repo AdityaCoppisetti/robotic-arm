@@ -924,16 +924,16 @@ we also need to remember while calculating that we are using 2 synchronised belt
 
 the key thing is that J5 and J6 and still two independent joints so we will have to figure out the transmission from each motor to its respective wrist axis 
 
-for each motor belt system we will have to count ( btw both belt systems are the same ) 
-motor pulley tooth count - 20 
-driven pulley tooth count - 60
-there is only one belt stage 
-the belt is open 
-lets say motor 1 drives J5 and then motor 1 and 2 both drive J6 together , 
-direction of rotation is anticlock wise and clockwise 
-mechanical range is infinity 
-motor to join ratio is 3:1 
-1 motor revolution - 120 joint rotation 
-3 motor revolutions - 360 joint rotation 
-joint angle = motor angle divided by 3 
+# for each motor belt system we will have to count ( btw both belt systems are the same ) 
+1) motor pulley tooth count - 20
+2) driven pulley tooth count - 60
+3) there is only one belt stage 
+4) the belt is open 
+5) lets say motor 1 drives J5 and then motor 1 and 2 both drive J6 together , 
+6) direction of rotation is anticlock wise and clockwise 
+7) mechanical range is infinity 
+8) motor to join ratio is 3:1 
+9) 1 motor revolution - 120 joint rotation 
+10) 3 motor revolutions - 360 joint rotation 
+11) joint angle = motor angle divided by 3 
 
