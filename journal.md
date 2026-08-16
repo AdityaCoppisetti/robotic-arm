@@ -735,14 +735,18 @@ these are my tasks for today after im done with cad
 4. **Create a ROS 2 package** for your robot. 
 5. **Create the URDF/Xacro** — links, joints, axes, positions, limits, meshes, and inertial properties. 
 
+oh and then i also want to design the physical electronics hardware with the microcontroller and the stepper motor drivers , see here is what i have in my mind , 
+i want the micro controller to control the stepper motor and tell it where to move with g code basically like x= 120 , y= 120 , z= 0 , basically coordinates and the stepper motors will move accordingly.
 
+see my plans with this robotic arm is to make it 3d print stuff. 
+i want to add a raspberry pi running ros2 and MoveIt 2. when we upload our file into our 3d printer it creates it into g code which our robotic arm can read and thus it will give the microcontroller where to move and then the microcontroller will tell the stepper motor drives the required data. 
+im adding a raspberry pi because i can run ros2 and moveIt 2 on it and it has the capabilites to extract the g code plus ill be able to add a screen and knobs for more functionality 
 
 lets do all of this in a day , today is august 16th lets set this as todays task
 
 
 i have finished with the base cad design which we will be defining as the J1 ( joint one) 
 
-<img width="743" height="740" alt="image" src="https://github.com/user-attachments/assets/c5ea211d-4f91-4cce-ba7f-5450372cc5e8" />
 
 i added holes in the planet gears so i can put a gearing in them because i want everything to be really smooth
 
@@ -793,7 +797,7 @@ since this is a planetary gear mechanism we will have to define sun teeth and pl
  22) full motor rotation for J1 range - 6480 degrees/ 18 revolutions 
 
 
-so i guess thats it there defined but i may be missing something i dont know we'll see later , lets get onto joint 2 ( j1) 
+so i guess thats it there defined but i may be missing something i dont know we'll see later , lets get onto joint 2 (j2) 
 
 ## JOINT 2
 
