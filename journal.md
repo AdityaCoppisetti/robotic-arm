@@ -741,3 +741,8 @@ lets do all of this in a day , today is august 16th lets set this as todays task
 
 
 i have finished with the base cad design which we will be defining as the J1 ( joint one) 
+
+<img width="743" height="740" alt="image" src="https://github.com/user-attachments/assets/c5ea211d-4f91-4cce-ba7f-5450372cc5e8" />
+
+i added holes in the planet gears so i can put a gearing in them because i want everything to be really smooth
+
