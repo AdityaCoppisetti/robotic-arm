@@ -937,3 +937,8 @@ the key thing is that J5 and J6 and still two independent joints so we will have
 10) 3 motor revolutions - 360 joint rotation 
 11) joint angle = motor angle divided by 3 
 
+
+i am using helical gears for the 2dof wrist.
+
+each helical gear is the same , there are 3 gears , gear 1 is controlled by motor 1 and then gear 2 is controlled by motor 2 and gear 2 and 1 mesh with gear 3 . 
+motor 1 rotates to spin gear 1 which revolues the gear 3 in z axis and then motor 1 and 2 both move together to move the gear 3 in horizontal axis 
