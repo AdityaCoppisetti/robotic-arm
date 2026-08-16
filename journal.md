@@ -960,26 +960,29 @@ okay ive done the calculations now lets define the joint 5
 <img width="271" height="486" alt="image" src="https://github.com/user-attachments/assets/5bfc4a55-d86e-4a96-8d8d-3daa73c6c4d6" />
 
 
-joint type - revolute 
-parent - link_4
-child_ link5 
-mechanism - 2-DOF differential wrist
-motor inputs - M1 + M2
-M1 transmission - 20 teeth to 60 teeth synchronised belt mechanism 
-M2 transmission 20 teeth to 60 teeth synchronised belt mechanism 
-belt stages - 1 per motor 
-belt type - open 
-belt reduction 3: 1 
-helical gear - gear 1 , 2 and 3
-gear teeth - 25 teeth each 
-helical gear ratio 1:1 
-J5 motion - rotation about z axis 
-motor movement for j5 - m1 ccw + m2 cw 
-reverse J5 - M1 CW + M2 CCw
-mechanical range - contrinuous / unlimited 
-calibration - origin is 0 at limit switch
-mechanical / software range - 0 to 180 degrees 
-reverse direction - opposite motor differential 
+1) joint type - revolute 
+2) parent - link_4
+3) child_ link5 
+4) mechanism - 2-DOF differential wrist
+5) motor inputs - M1 + M2
+6) M1 transmission - 20 teeth to 60 teeth synchronised belt mechanism 
+7) M2 transmission 20 teeth to 60 teeth synchronised belt mechanism 
+8) belt stages - 1 per motor 
+9) belt type - open 
+10) belt reduction 3: 1 
+11) helical gear - gear 1 , 2 and 3
+12) gear teeth - 25 teeth each 
+13) helical gear ratio 1:1 
+14) J5 motion - rotation about z axis 
+15) motor movement for j5 - m1 ccw + m2 cw 
+16) reverse J5 - M1 CW + M2 CCw
+17) mechanical range - contrinuous / unlimited 
+18) calibration - origin is 0 at limit switch
+19) mechanical / software range - 0 to 180 degrees 
+20) reverse direction - opposite motor differential 
 
 my startup sequence is - 
 power on - motor controller started and then homing routine and then enable normal motion and ros 2 and moveit 2 starts commanding joints
+
+
+
