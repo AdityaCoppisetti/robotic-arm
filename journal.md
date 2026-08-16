@@ -849,6 +849,15 @@ here is it fixed
 <img width="708" height="688" alt="image" src="https://github.com/user-attachments/assets/1d286747-1112-4bcc-97d3-176b18a17de3" />
 
 
+## JOINT 3 
+
+<img width="498" height="321" alt="image" src="https://github.com/user-attachments/assets/bc1c057b-3a82-4df1-8e8b-adaa511c0554" />
+
+this is the joint 3 which is connected to the link_2 and moves the link_3 
+and even in this mechanism , the sun gear is attached to the motor directly and not using a synchronised mechanism 
+
+here is the planetary mechanism info 
+
 
 
 
