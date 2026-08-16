@@ -883,4 +883,8 @@ here is the planetary mechanism info
     
 ## JOINT 4
 
+<img width="258" height="409" alt="image" src="https://github.com/user-attachments/assets/12b55b4c-7949-457d-b237-699079e074d9" />
+
+this is the joint thats attached to the link_3 and it moves the link_4 which supports the 2dof wrist 
+
  
