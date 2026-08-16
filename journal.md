@@ -740,7 +740,9 @@ i want the micro controller to control the stepper motor and tell it where to mo
 
 see my plans with this robotic arm is to make it 3d print stuff. 
 i want to add a raspberry pi running ros2 and MoveIt 2. when we upload our file into our 3d printer it creates it into g code which our robotic arm can read and thus it will give the microcontroller where to move and then the microcontroller will tell the stepper motor drives the required data. 
-im adding a raspberry pi because i can run ros2 and moveIt 2 on it and it has the capabilites to extract the g code plus ill be able to add a screen and knobs for more functionality 
+im adding a raspberry pi because i can run ros2 and moveIt 2 on it and it has the capabilites to extract the g code plus ill be able to add a screen and knobs for more functionality.
+
+if i have the time to add all of this i will otherwise the raspberry pi along with the extruding part will be part 2 of this project and probably in a different github repo 
 
 lets do all of this in a day , today is august 16th lets set this as todays task
 
