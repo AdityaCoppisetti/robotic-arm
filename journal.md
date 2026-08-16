@@ -781,7 +781,9 @@ since this is a planetary gear mechanism we will have to define sun teeth and pl
  10) number of plants - 3
  11) ring- fixed on spot
  12) motor- nema17
- 13) input motor - sun gear ( because we will be connecting the motor to the nema17 motor)  
+ 13) input motor - sun gear ( because we will be connecting the motor to the nema17 motor)
+
+okay so i need to redo my calculations as i forgot i will be using the synchronised belt mechanism for this 
 
 
 
