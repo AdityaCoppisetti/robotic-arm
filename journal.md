@@ -781,9 +781,19 @@ since this is a planetary gear mechanism we will have to define sun teeth and pl
  10) number of plants - 3
  11) ring- fixed on spot
  12) motor- nema17
- 13) input motor - sun gear ( because we will be connecting the motor to the nema17 motor)
+ 13) motor- pulley 20T ( 20 teeth)
+ 14) sun - pulley 20T
+ 15) belt reduction - 3:1 ratio
+ 16) planetary reduction - 6:1
+ 17) total reduction - 18:1
+ 18) joint range -180 degrees to +180 degrees
+ 19) calibration - will be this little program ill write that would perform before anything starts where it'll mechanically define the origin
+ 20) j1 angle - motor angle ÷ 18
+ 21) motor rotation for +180 degrees j1 - 3240 degree / 9 revolutions
+ 22) full motor rotation for J1 range - 6480 degrees/ 18 revolutions 
 
-okay so i need to redo my calculations as i forgot i will be using the synchronised belt mechanism for this 
+
+
 
 
 
