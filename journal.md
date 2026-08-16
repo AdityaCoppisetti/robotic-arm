@@ -894,3 +894,23 @@ this is the planetary gearbox info
 also in this the carrier is the output
 
 # Details
+1) joint type - revolute 
+2) mechanism - planetary gearbox
+3) motor - NEMA 17
+4) motor is connected to the sun gear directly
+5) sun teeth - 18 teeth
+6) planet - 36 teeth
+7) ring - 90 teeth
+8) planets - 3
+9) ring - fixed in place
+10) output - carrier
+11) reduction - 6:1
+12) range 0 to 180 degrees
+13) origin is 0 degrees
+14) motor to joint angle - J4 = motor angle ÷ 6
+15) motor rotation for 180 degrees - 1080 degrees/ 3 revolutions
+
+
+    now for our J5 and J6 we are using a 2 dof wrist
+
+     so its going to be much different 
