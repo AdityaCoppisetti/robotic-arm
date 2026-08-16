@@ -815,6 +815,28 @@ this is the planetary gear info
 <img width="223" height="433" alt="image" src="https://github.com/user-attachments/assets/1ef9b45b-8b52-41cd-be88-720c7474f8c6" />
 
 
+# Details 
+
+1) joint type - revolute
+2) parent - link_1
+3) child  - link_2
+4) mechanism - planetary gearbox
+5) motor - NEMA 17
+6) motor connection - directly to the sun gear
+7) sun teeth - 18
+8) planet teeth - 36
+9) ring teeth - 90 teeth
+10) number of planets - 3
+11) ring is fixed the carrier moves
+12) reduction 6:1
+13) rotation axis horizontal
+14) joint range is 180 i keep forgetting this always
+15) calibration is routine to find origin point using limit switch
+
+
+ do you wanna know something funny? 
+when i was figuring out the joint range in onshape i counted the joints and only counted 5 cause there are only 5 technically because we are using the 2dof robotic wrist so i got so baffled onto how i missed an entire fucking joint BAHAHAHAHHAHAHAHA
+
 
 
 
