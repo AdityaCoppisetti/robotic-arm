@@ -808,6 +808,9 @@ so i guess thats it there defined but i may be missing something i dont know we'
 
 this is the joint 2 (J2) which will sit on top of the base this is also our forearm ig 
 
+unlike the gear mechanism, the sun gear is directly connected to the stepper motor , and not using the synchronised belt mechanism 
+
+
 
 
 
