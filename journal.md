@@ -752,7 +752,7 @@ so see my plan is that when the robotic arm turns on , its going to need to know
 
 now lets define the J1
 
-## DEFINING JOINT 1 (J1) 
+## JOINT 1 (J1) 
 
 joint-1 is the base of our 6DOF robotic arm 
 
@@ -764,7 +764,7 @@ joint-1 is the base of our 6DOF robotic arm
 
 
 
-
+# so lets define it!
 
 1) parameter - J1
 2) joint type - revolute
@@ -792,6 +792,10 @@ since this is a planetary gear mechanism we will have to define sun teeth and pl
  21) motor rotation for +180 degrees j1 - 3240 degree / 9 revolutions
  22) full motor rotation for J1 range - 6480 degrees/ 18 revolutions 
 
+
+so i guess thats it there defined but i may be missing something i dont know we'll see later , lets get onto joint 2 ( j1) 
+
+## JOINT 2
 
 
 
