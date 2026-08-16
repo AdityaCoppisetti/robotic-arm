@@ -756,7 +756,14 @@ now lets define the J1
 
 joint-1 is the base of our 6DOF robotic arm 
 
+
+
+
+
 <img width="364" height="348" alt="image" src="https://github.com/user-attachments/assets/e6b7b605-ba6b-47e7-9e81-e38e3d3c9920" />
+
+
+
 
 
 1) parameter - J1
@@ -771,10 +778,10 @@ since this is a planetary gear mechanism we will have to define sun teeth and pl
 7) sun teeth - 18
 8) planet teeth - 36
 9) ring teeth - 90
-10) number of plants - 3
-11) ring- fixed on spot
-12) motor- nema17
-13) input motor - sun gear ( because we will be connecting the motor to the nema17 motor)  
+ 10) number of plants - 3
+ 11) ring- fixed on spot
+ 12) motor- nema17
+ 13) input motor - sun gear ( because we will be connecting the motor to the nema17 motor)  
 
 
 
