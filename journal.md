@@ -811,6 +811,10 @@ this is the joint 2 (J2) which will sit on top of the base this is also our fore
 unlike the gear mechanism, the sun gear is directly connected to the stepper motor , and not using the synchronised belt mechanism 
 
 
+<img width="223" height="433" alt="image" src="https://github.com/user-attachments/assets/1ef9b45b-8b52-41cd-be88-720c7474f8c6" />
+
+
+
 
 
 
