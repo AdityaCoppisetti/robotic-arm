@@ -891,5 +891,6 @@ this is the planetary gearbox info
  
 <img width="226" height="492" alt="image" src="https://github.com/user-attachments/assets/ce2273db-9061-4804-976e-491344b56ba3" />
 
+also in this the carrier is the output
 
 # Details
