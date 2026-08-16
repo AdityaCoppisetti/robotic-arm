@@ -981,3 +981,5 @@ calibration - origin is 0 at limit switch
 mechanical / software range - 0 to 180 degrees 
 reverse direction - opposite motor differential 
 
+my startup sequence is - 
+power on - motor controller started and then homing routine and then enable normal motion and ros 2 and moveit 2 starts commanding joints
