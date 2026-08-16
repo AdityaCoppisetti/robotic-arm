@@ -942,3 +942,13 @@ i am using helical gears for the 2dof wrist.
 
 each helical gear is the same , there are 3 gears , gear 1 is controlled by motor 1 and then gear 2 is controlled by motor 2 and gear 2 and 1 mesh with gear 3 . 
 motor 1 rotates to spin gear 1 which revolues the gear 3 in z axis and then motor 1 and 2 both move together to move the gear 3 in horizontal axis 
+
+OKAY SO WAIT I MESSED UP THE EXPLAINATION 
+
+you know how i said that motor 1 rotates the gear 1 which meshes with the gear 3 and rotates it? 
+well in order for the gear 3 to spin , the motor 2 that rotates the gear 2 has to rotate in the opposite direction 
+
+
+i.e to move the gear 3 in z axis like the base mechanism axis , the motor 1 rotates anticlockwise and the motor 2 rotates clockwise 
+
+
