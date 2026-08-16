@@ -804,6 +804,9 @@ so i guess thats it there defined but i may be missing something i dont know we'
 ## JOINT 2
 
 
+<img width="279" height="411" alt="image" src="https://github.com/user-attachments/assets/a0e5ec72-661b-478c-9e71-8bfb5c40281a" />
+
+this is the joint 2 (J2) which will sit on top of the base this is also our forearm ig 
 
 
 
