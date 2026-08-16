@@ -842,6 +842,11 @@ when i was figuring out the joint range in onshape i counted the joints and only
 
 
 
+apparenly i had made a mistake when putting the limit mechanism part of the joint 3 because it wasnt in line with the planetary mechanism's ring and which would have resulted in a differented origin and thus a different 180 degree point than anticipated 
+
+here is it fixed 
+
+<img width="708" height="688" alt="image" src="https://github.com/user-attachments/assets/1d286747-1112-4bcc-97d3-176b18a17de3" />
 
 
 
