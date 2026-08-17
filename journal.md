@@ -1231,5 +1231,7 @@ and then here is the price on robocraze -
 
  ill be using wokwi to show how to wire a driver with the microcontroller
 
+
+we start off by joining the sleep and reset pins together so that the board isnt in sleep mode 
  
 
