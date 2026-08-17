@@ -1197,3 +1197,4 @@ what people usually do when they use these many a4988 stepper motor drivers is t
 
 which i mean technically does work but its looks so terrible
 
+the pricing on these is just fucking weird 
