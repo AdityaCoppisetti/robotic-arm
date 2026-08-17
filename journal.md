@@ -134,6 +134,7 @@ i know i know it looks weird but this is my first time making one and that inclu
 
 <img width="415" height="379" alt="image" src="https://github.com/user-attachments/assets/24ed4faa-5884-44b8-a17d-10b325fd0093" />
 
+
 my idea was that if the planetary gears stay in place , the sun gear obviously stays in the middle, 
 by that logic then the outer ring would rotate.
 
