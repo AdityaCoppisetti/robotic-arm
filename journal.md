@@ -1258,3 +1258,8 @@ aaaaaaaaaaaaaaaaaaaaa ill have to build my own microcontroller which is fun but 
 
 
 i usually use the esp 32 to build my microcontroller but this time im going with arduino since i need a change of components and design kinda 
+
+
+luckily we do have the driver footprint in kicad 
+
+<img width="849" height="648" alt="image" src="https://github.com/user-attachments/assets/043cfc02-5599-4677-9204-a8df6dccb0be" />
