@@ -1059,8 +1059,21 @@ we have everytihng needed for kinematic definition for link_1 lets get onto link
 
 ## LINK- 2 ( Link_2) 
 
+link_2 is the assembly attached to the J2 carrier / output that rotates around the J2 axis and carrier J3
 
+# DETAILS 
 
+1) parent - link_1
+2) parent joint - j2
+3) rigidly attached to j2 carrier output
+4) contains - j3 gearbox and its fixed components
+5) j3 fixed ring - part of link2
+6) j3 rotating carrier - not part of link 2 because it becomes link 3
+7) j2 to j3 axis distance - 16.58mm
+8) movement - rotates with j2
+9) j3 mechanism attached to the link 2
+10) j3 fixed components - part of link 2
+    
 
 
 
