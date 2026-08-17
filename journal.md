@@ -1190,8 +1190,9 @@ ill be using
 
 to control my nem17 stepper motors , since they only take like 1-2 pins from the microcontroller and they are well documented 
 
+what people usually do when they use these many a4988 stepper motor drivers is that they buy this hideous shield for their arduino uno 
+
+<img width="691" height="562" alt="image" src="https://github.com/user-attachments/assets/a457af69-210d-4c5b-97e0-9a84bde3585f" />
 
 
-
-
-
+which i mean technically does work but its looks so terrible
