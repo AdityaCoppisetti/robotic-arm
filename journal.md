@@ -1237,4 +1237,9 @@ we start off by joining the sleep and reset pins together so that the board isnt
 
  <img width="997" height="726" alt="image" src="https://github.com/user-attachments/assets/e49a3f15-d54e-442c-9072-43f78045125e" />
 
+ the reference design is this from a youtube video 
+
+ <img width="1398" height="679" alt="image" src="https://github.com/user-attachments/assets/7ac8b0f5-30c6-4032-bc78-12a765881cfc" />
+
+
 
