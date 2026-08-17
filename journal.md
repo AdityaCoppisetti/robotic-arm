@@ -1063,3 +1063,5 @@ we have everytihng needed for kinematic definition for link_1 lets get onto link
 
 
 
+
+
