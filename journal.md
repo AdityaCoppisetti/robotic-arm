@@ -1223,6 +1223,8 @@ and then here is the price on robocraze -
 
  i want there to be external power port that will provide the power to the stepper motor and then i think the board will take power from the microcontroller itself? 
 
+ oh and in this explaination design above i havent added space for capacitors and the output for the servo motor 
+
  as much as i do want to use a pre-made micro-controller but that wouldnt really help my kicad skills and right now i need to build as much as i can 
  
 
