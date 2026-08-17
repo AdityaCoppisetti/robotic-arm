@@ -1248,6 +1248,10 @@ this is my design on wokwi
 
 let me just explain from what ive understood , 
 
+
 you power the driver from the microcontroller and the driver supplies power to the stepper motor along with the data , so you connect a external dc power supply jack and wire it to the driver using 
 jumper wires but you add a decoupling capacitor of 100 microfarad so that there arent any ripples in the voltage. 
 
+
+
+aaaaaaaaaaaaaaaaaaaaa ill have to build my own microcontroller which is fun but ughhhh its going to take so much time and also i wont be adding wifi to this because i will already have wifi capabilities because ill be using the ras pi 
