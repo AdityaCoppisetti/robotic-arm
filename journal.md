@@ -1173,5 +1173,7 @@ and ill add a space for the raspberry pi zero 2w aswell since ill be using that 
 
  before i get started on the hardware , since we are done with the cad , lets add the cad files into the repo 
 
-
+my plan is that i want a microcontroller to control all the stepper motors and i want a raspberry pi to give it g code to print files or stuff because later on , ill be able to add a camera to my 
+robotic arm and then be able to tell it to see things and pick them up. 
+i believe that there is already an LLM model for that 
 
