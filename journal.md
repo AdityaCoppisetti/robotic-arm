@@ -1058,6 +1058,8 @@ assembly
 we have everytihng needed for kinematic definition for link_1 lets get onto link_2 
 
 ## LINK- 2 ( Link_2) 
+<img width="316" height="589" alt="image" src="https://github.com/user-attachments/assets/ef7c6e86-b1da-4ec8-b3c3-05cab420d295" />
+
 
 link_2 is the assembly attached to the J2 carrier / output that rotates around the J2 axis and carrier J3
 
