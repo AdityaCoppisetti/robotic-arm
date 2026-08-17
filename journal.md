@@ -1222,5 +1222,7 @@ and then here is the price on robocraze -
  apparently the whiteboard website lets you use shapes so this was easy to make. 
 
  i want there to be external power port that will provide the power to the stepper motor and then i think the board will take power from the microcontroller itself? 
+
+ as much as i do want to use a pre-made micro-controller but that wouldnt really help my kicad skills and right now i need to build as much as i can 
  
 
