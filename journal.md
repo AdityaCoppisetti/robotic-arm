@@ -1098,4 +1098,5 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
    the J4's gearbox is fixed to link 3 belongs to link 3 , the rotating output of J4 becomes art of link 4 
 
 
-
+## LINK-4 ( link_4) 
+<img width="283" height="479" alt="image" src="https://github.com/user-attachments/assets/f3b1ba20-21fb-43e0-bdb5-16ab72fc7e1e" />
