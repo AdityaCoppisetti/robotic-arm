@@ -1128,4 +1128,6 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 
 i want grip in the claws so ill be adding the rough part of velcro on the grippers. like those adhesive velcro you can find on amazon 
 
+however we arent yet done to move onto kinetic module because we are using a servo motor to open and close the gripper. lets call is gripper actuator 
+
 
