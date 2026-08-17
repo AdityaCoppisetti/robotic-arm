@@ -1204,3 +1204,8 @@ on amazon for just 4 of these here is the price
 
 <img width="1020" height="590" alt="image" src="https://github.com/user-attachments/assets/8f040602-1ffa-4231-b191-320b858cec22" />
 
+and then here is the price on robocraze - 
+
+<img width="1390" height="561" alt="image" src="https://github.com/user-attachments/assets/bae6a77f-2595-40d4-8d13-df76f914bef4" />
+
+
