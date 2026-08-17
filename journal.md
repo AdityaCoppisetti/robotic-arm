@@ -1216,3 +1216,11 @@ and then here is the price on robocraze -
 
  please excuse my shitty drawing , here is how i want my pcb to look like 
 
+
+ <img width="997" height="726" alt="image" src="https://github.com/user-attachments/assets/9319c169-ef9b-4158-8115-395fc4f9369c" />
+
+ apparently the whiteboard website lets you use shapes so this was easy to make. 
+
+ i want there to be external power port that will provide the power to the stepper motor and then i think the board will take power from the microcontroller itself? 
+ 
+
