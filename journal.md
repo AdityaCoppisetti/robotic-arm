@@ -1255,3 +1255,6 @@ jumper wires but you add a decoupling capacitor of 100 microfarad so that there 
 
 
 aaaaaaaaaaaaaaaaaaaaa ill have to build my own microcontroller which is fun but ughhhh its going to take so much time and also i wont be adding wifi to this because i will already have wifi capabilities because ill be using the ras pi 
+
+
+i usually use the esp 32 to build my microcontroller but this time im going with arduino since i need a change of components and design kinda 
