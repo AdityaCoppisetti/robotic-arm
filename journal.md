@@ -1057,6 +1057,7 @@ assembly
 
 we have everytihng needed for kinematic definition for link_1 lets get onto link_2 
 
+## LINK- 2 ( Link_2) 
 
 
 
