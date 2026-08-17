@@ -1233,5 +1233,8 @@ and then here is the price on robocraze -
 
 
 we start off by joining the sleep and reset pins together so that the board isnt in sleep mode 
- 
+
+
+ <img width="997" height="726" alt="image" src="https://github.com/user-attachments/assets/e49a3f15-d54e-442c-9072-43f78045125e" />
+
 
