@@ -1040,5 +1040,26 @@ okay so we are going to take link_1 as our rigid base structure
 
 we dont really need mass , centre of mass , intertia right now as that can be extracted from cad later on so lets define the link_1 (link1)
 
+# DETAILS 
+
+1) rigidly attached to J1's carrier
+2) parent joint - base_ link
+3) motion - rotates with J1
+4) J1 to J2 axis distant is 66.91 mm
+5) j1 axis - vertical z
+6) j2 axis - perpendicular to J1
+7) j2 assembly base - rigidly attached to J1 carrier
+
+
+
+# what belongs to link_1?
+everything that moves together when j1 moves including the rigid structure connecting the j1 carrier to the J2 
+assembly
+
+we have everytihng needed for kinematic definition for link_1 lets get onto link_2 
+
+
+
+
 
 
