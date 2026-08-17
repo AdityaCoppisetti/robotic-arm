@@ -1072,7 +1072,8 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 4) contains - j3 gearbox and its fixed components
 5) j3 fixed ring - part of link2
 6) j3 rotating carrier - not part of link 2 because it becomes link 3
-7) j2 to j3 axis distance - 16.58mm
+7) j2 to j3 axis distance - 16.583cm
+
 8) movement - rotates with j2
 9) j3 mechanism attached to the link 2
 10) j3 fixed components - part of link 2
@@ -1084,6 +1085,16 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 
 # DETAILS
 
+1) Parent link - link_2
+2) parent joint - J3
+3) rigidly conncted to - j3 carrier ( the output
+4) connected - J4
+5) role - rigid forearm section between j3 and j4
+6) movement - moves with J3
+7) j3 to j4 axis distance - 22.110cm
+
+
+   the J4's gearbox is fixed to link 3 belongs to link 3 , the rotating output of J4 becomes art of link 4 
 
 
 
