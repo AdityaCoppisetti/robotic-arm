@@ -879,6 +879,7 @@ here is the planetary mechanism info
 13) calibration - origin is 0 degrees
 14) motor is at joint - j3+ motor angle ÷ 6
 15) motor rotation for 180 degrees J3 - 1080 degrees / 3 revolutions
+16) 
 
 
     
