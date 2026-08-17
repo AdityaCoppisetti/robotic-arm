@@ -1073,7 +1073,9 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 8) movement - rotates with j2
 9) j3 mechanism attached to the link 2
 10) j3 fixed components - part of link 2
+11) 
     
+## LINK-3 ( link_3) 
 
 
 
