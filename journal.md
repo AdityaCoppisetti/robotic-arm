@@ -1156,3 +1156,6 @@ this is the info for the large spur gears
 <img width="224" height="417" alt="image" src="https://github.com/user-attachments/assets/1fdd495c-944e-46f4-8789-b9813e59629c" />
 
 
+and this is the info for the small spur gear attached to the servo motor 
+
+<img width="224" height="417" alt="image" src="https://github.com/user-attachments/assets/c6570646-6faa-44ff-9f17-69513b42e5a7" />
