@@ -1129,3 +1129,7 @@ and in the image above look that is how the servo motor works , it spins a spur 
 
 
 now lets define the gripper 
+
+
+# **DEFINING THE GRIPPER**
+
