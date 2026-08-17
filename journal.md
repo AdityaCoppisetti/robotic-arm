@@ -1100,3 +1100,14 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 
 ## LINK-4 ( link_4) 
 <img width="283" height="479" alt="image" src="https://github.com/user-attachments/assets/f3b1ba20-21fb-43e0-bdb5-16ab72fc7e1e" />
+
+# DETAILS 
+
+1) parent link - link_3
+2) parent joint - J4
+3) rigidly attahed to J4 carrier / output
+4) J4 wrist ( gear 3 axis) - 36.403cm
+5) j4- wrist axis - 364.03mm
+6) movement rotates with j4
+7) endpoint - 2dof wrist
+8) 
