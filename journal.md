@@ -1110,4 +1110,8 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 5) j4- wrist axis - 364.03mm
 6) movement rotates with j4
 7) endpoint - 2dof wrist
-8) 
+
+
+# THE CLAW / GRIPPER 
+
+
