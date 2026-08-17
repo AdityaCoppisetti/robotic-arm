@@ -1209,3 +1209,5 @@ and then here is the price on robocraze -
 <img width="1390" height="561" alt="image" src="https://github.com/user-attachments/assets/bae6a77f-2595-40d4-8d13-df76f914bef4" />
 
 
+ for a total of 6 drivers it would cost me - just 432 ruppees , which is really fucking cheap 
+
