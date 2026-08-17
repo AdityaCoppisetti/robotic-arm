@@ -1114,4 +1114,5 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 
 # THE CLAW / GRIPPER 
 
+<img width="568" height="401" alt="image" src="https://github.com/user-attachments/assets/84a652ce-f9d2-495b-aff6-d8f9c66b174e" />
 
