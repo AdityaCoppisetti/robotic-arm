@@ -1211,3 +1211,5 @@ and then here is the price on robocraze -
 
  for a total of 6 drivers it would cost me - just 432 ruppees , which is really fucking cheap 
 
+ plus i really like the green look , it would look really good with a black pcb 
+
