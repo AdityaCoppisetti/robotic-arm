@@ -960,6 +960,8 @@ okay ive done the calculations now lets define the joint 5
 <img width="271" height="486" alt="image" src="https://github.com/user-attachments/assets/5bfc4a55-d86e-4a96-8d8d-3daa73c6c4d6" />
 
 
+# Details 
+
 1) joint type - revolute 
 2) parent - link_4
 3) child_ link5 
@@ -989,6 +991,8 @@ power on - motor controller started and then homing routine and then enable norm
 ## JOINT 6 
 
 <img width="258" height="408" alt="image" src="https://github.com/user-attachments/assets/b693aac1-f650-4944-a7d7-79a567993c83" />
+
+
 
 
 
