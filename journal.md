@@ -1028,3 +1028,8 @@ because m1 and m2 both participatein the differential
 with that now , 
 
 we have defined our all 6 joints and now we have to define the links 
+
+let us now look at cad and define the links. 
+
+
+## LINK - 1 
