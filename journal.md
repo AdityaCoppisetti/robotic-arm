@@ -1177,3 +1177,12 @@ my plan is that i want a microcontroller to control all the stepper motors and i
 robotic arm and then be able to tell it to see things and pick them up. 
 i believe that there is already an LLM model for that 
 
+
+
+# stepper motor driver 
+
+ill be using 
+
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/ad254520-c15e-4d73-b9ba-bc0c33559007" />
+
