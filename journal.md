@@ -1213,3 +1213,6 @@ and then here is the price on robocraze -
 
  plus i really like the green look , it would look really good with a black pcb 
 
+
+ please excuse my shitty drawing , here is how i want my pcb to look like 
+
