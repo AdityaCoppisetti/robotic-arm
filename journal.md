@@ -1151,7 +1151,7 @@ complete structural definition -
 13) servo to claw gear - 2 servo rotations - 1 claw gear rotation
 14) claw gear angel - servo angle / 2
 15) claw 1 & 2 - sriven symmetricaly by th servo gear
-16) 
+
 
 
 this is the info for the large spur gears 
@@ -1162,3 +1162,11 @@ this is the info for the large spur gears
 and this is the info for the small spur gear attached to the servo motor 
 
 <img width="224" height="417" alt="image" src="https://github.com/user-attachments/assets/c6570646-6faa-44ff-9f17-69513b42e5a7" />
+
+
+THE DEFINITION OF ALL THE JOINTS AND LINKS ARE NOW DONE AND WE ARE FINALLY READY TO MOVE ONTO KINEmATICS 
+
+however i think i should now design the electronics part of this project. 
+basically ill be making a custom pcb with a microcontroller and the pin headers for the stepper motor driver and then the input pins for the stepper motor itself 
+and ill add a space for the raspberry pi zero 2w aswell since ill be using that to give g code to the microcontroller 
+
