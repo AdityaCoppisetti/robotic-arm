@@ -1151,4 +1151,8 @@ complete structural definition -
 13) claw movement open - close
 
 
+this is the info for the large spur gears 
+
+<img width="224" height="417" alt="image" src="https://github.com/user-attachments/assets/1fdd495c-944e-46f4-8789-b9813e59629c" />
+
 
