@@ -1244,3 +1244,5 @@ we start off by joining the sleep and reset pins together so that the board isnt
 
 this is my design on wokwi
 
+<img width="849" height="648" alt="image" src="https://github.com/user-attachments/assets/e4b8dbf3-0683-4506-afc4-b4775749db10" />
+
