@@ -1112,7 +1112,20 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
 7) endpoint - 2dof wrist
 
 
-# THE CLAW / GRIPPER 
+# THE CLAW / GRIPPER ( end_effector) 
 
 <img width="568" height="401" alt="image" src="https://github.com/user-attachments/assets/84a652ce-f9d2-495b-aff6-d8f9c66b174e" />
+
+
+# GRIPPER DEFINITION 
+
+1) attached to - 2dof output - gear 3
+2) wrist to gripper offset - 156.844mm
+3) reference point gear 3 centre axis
+4) function - gripping objects
+5) claws - 1 pair
+
+
+i want grip in the claws so ill be adding the rough part of velcro on the grippers. like those adhesive velcro you can find on amazon 
+
 
