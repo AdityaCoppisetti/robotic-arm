@@ -1184,7 +1184,14 @@ i believe that there is already an LLM model for that
 ill be using 
 # **a4988 stepper motor driver**
 
+
+<img width="375" height="269" alt="image" src="https://github.com/user-attachments/assets/5d718c7d-6947-4dea-9942-f07c7a69b364" />
+
+
 to control my nem17 stepper motors , since they only take like 1-2 pins from the microcontroller and they are well documented 
+
+
+
 
 
 
