@@ -1037,3 +1037,8 @@ let us now look at cad and define the links.
 okay so we are going to take link_1 as our rigid base structure 
 
 <img width="896" height="579" alt="image" src="https://github.com/user-attachments/assets/2e20d172-55ca-4b8d-8842-3ece3ad5210b" />
+
+we dont really need mass , centre of mass , intertia right now as that can be extracted from cad later on so lets define the link_1 (link1)
+
+
+
