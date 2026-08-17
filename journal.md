@@ -1130,4 +1130,8 @@ i want grip in the claws so ill be adding the rough part of velcro on the grippe
 
 however we arent yet done to move onto kinetic module because we are using a servo motor to open and close the gripper. lets call is gripper actuator 
 
+<img width="510" height="563" alt="image" src="https://github.com/user-attachments/assets/d7f1dd87-04a7-4b10-85a0-e700d41504e1" />
+
+the servo motor will start from origin point and since its a servo motor i wont have to use a calibration method 
+involving a limit switch 
 
