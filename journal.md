@@ -1137,3 +1137,4 @@ involving a limit switch
 and in the image above look that is how the servo motor works , it spins a spur gear which spins 2 more spur gears that are attached to claw 1 and claw 2 and they move and close. 
 
 
+
