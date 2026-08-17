@@ -1226,5 +1226,10 @@ and then here is the price on robocraze -
  oh and in this explaination design above i havent added space for capacitors and the output for the servo motor 
 
  as much as i do want to use a pre-made micro-controller but that wouldnt really help my kicad skills and right now i need to build as much as i can 
+
+
+
+ ill be using wokwi to show how to wire a driver with the microcontroller
+
  
 
