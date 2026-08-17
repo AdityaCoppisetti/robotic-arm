@@ -986,3 +986,9 @@ power on - motor controller started and then homing routine and then enable norm
 
 
 
+## JOINT 6 
+
+
+
+
+
