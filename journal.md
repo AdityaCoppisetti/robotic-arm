@@ -1079,6 +1079,7 @@ link_2 is the assembly attached to the J2 carrier / output that rotates around t
     
 ## LINK-3 ( link_3) 
 
+<img width="316" height="589" alt="image" src="https://github.com/user-attachments/assets/f4e2332e-06f7-4c62-9f28-fc57c18c65b3" />
 
 
 
