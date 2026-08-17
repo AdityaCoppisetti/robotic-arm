@@ -1137,18 +1137,20 @@ now lets define the gripper
 complete structural definition - 
 
 1) type - end effector
-2) attached to - 2dof wrist
-3) arm dof count - 6 DOF gripper is seperate
-4) gear 3 - gripper geometry 156.844 mm
-5) actuator - positional servo motor
-6) servo homing - is not required because servo knows the rotations
-7) servo reference - mechanical commanded origin
-8) transmission - 3 spur gear mechanism
-9) servo gear - small spur gear
-10) claw 1 gear - large spur gear
-11) claw 2 gear - large spur gear
-12) claw 1 & 2 rotation - opposite directions
-13) claw movement open - close
+2) attached to - 2 dof wrist output
+3) wrist to gripper reference - 156.844 mm
+4) arm dof count - 6DOF
+5) actuator - mg996R v17
+6) servo calibration - not required
+7) control - open / close
+8) servo gear - 25 teeth
+9) claw 1 gear - 50 teeth
+10) claw 2 gear - 50 teeth
+11) gear stages - 1
+12) transmission- 2:1 reduction
+13) servo to claw gear - 2 servo rotations - 1 claw gear rotation
+14) claw gear angel - servo angle / 2
+15) claw 1 & 2 - sriven symmetricaly by th servo gear 
 
 
 this is the info for the large spur gears 
@@ -1159,3 +1161,5 @@ this is the info for the large spur gears
 and this is the info for the small spur gear attached to the servo motor 
 
 <img width="224" height="417" alt="image" src="https://github.com/user-attachments/assets/c6570646-6faa-44ff-9f17-69513b42e5a7" />
+
+
