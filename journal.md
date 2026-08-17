@@ -1246,3 +1246,8 @@ this is my design on wokwi
 
 <img width="849" height="648" alt="image" src="https://github.com/user-attachments/assets/e4b8dbf3-0683-4506-afc4-b4775749db10" />
 
+let me just explain from what ive understood , 
+
+you power the driver from the microcontroller and the driver supplies power to the stepper motor along with the data , so you connect a external dc power supply jack and wire it to the driver using 
+jumper wires but you add a decoupling capacitor of 100 microfarad so that there arent any ripples in the voltage. 
+
