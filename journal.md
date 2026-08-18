@@ -1298,3 +1298,5 @@ being used
 
 # the general purpose input output pins (gpio pins) 
 
+<img width="813" height="629" alt="image" src="https://github.com/user-attachments/assets/93cd149c-d106-430c-b311-4b4bb1661457" />
+
