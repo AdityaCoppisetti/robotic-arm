@@ -1268,3 +1268,6 @@ luckily we do have the driver footprint in kicad
 ill be building the arduino nano to use as my microcontroller
 
 lets make the schematic 
+
+
+## ARDUINO NANO SCHEMATIC 
