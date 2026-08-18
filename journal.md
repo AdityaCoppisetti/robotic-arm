@@ -1364,3 +1364,5 @@ here is how the board looks like so far i am still placing components
 <img width="847" height="583" alt="image" src="https://github.com/user-attachments/assets/1e8933c8-10dd-42ec-a80c-1e0f46e72202" />
 
 Also i removed the mounting holes and the testpoints as i want this to be as compact as it can be 
+
+im also i placing alot of components on the other side of the board as its a tiny and compact board
