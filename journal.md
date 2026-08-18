@@ -1375,3 +1375,7 @@ this is shaping out to be so good and its making me realise how much more i have
 
 
 it looks so so good 
+
+
+<img width="1102" height="647" alt="image" src="https://github.com/user-attachments/assets/40a95a1f-07de-4eb5-be9b-b48e5f128e9c" />
+
