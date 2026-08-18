@@ -1287,3 +1287,10 @@ i like to keep my texts small so if you want to recreate this , it'll be in this
 
 
 # the usb- b and FT232RL usb interface 
+
+
+<img width="813" height="629" alt="image" src="https://github.com/user-attachments/assets/35413299-83f2-4ba0-abf9-6261c3ba2836" />
+
+
+i think i will be going over this again and including a type c port but then since im a photographer i have a ton of cameras which use that pin so i already have a ton of wires laying around which arent
+being used 
