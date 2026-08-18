@@ -1314,3 +1314,10 @@ apparently there is something known as esp nano woah when did this even come out
 
 <img width="860" height="654" alt="image" src="https://github.com/user-attachments/assets/b3fd4a5b-cd3f-4448-b3c6-e241338eefdd" />
 
+
+# mounting holes 
+
+
+<img width="518" height="458" alt="image" src="https://github.com/user-attachments/assets/8bf40667-f98b-4118-ac09-93dd22af3b75" />
+
+mountain holes lalallala
