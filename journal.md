@@ -1,7 +1,3 @@
-
-
-
-
 this is where ill be journaling my work.
 
 
