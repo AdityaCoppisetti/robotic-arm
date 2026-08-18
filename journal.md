@@ -1321,3 +1321,7 @@ apparently there is something known as esp nano woah when did this even come out
 <img width="518" height="458" alt="image" src="https://github.com/user-attachments/assets/8bf40667-f98b-4118-ac09-93dd22af3b75" />
 
 mountain holes lalallala
+
+
+lets build the pcb now 
+
