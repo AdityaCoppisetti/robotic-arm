@@ -1337,3 +1337,7 @@ but before you do this you need the required footprints and here they are-
 
 
 
+
+<img width="664" height="846" alt="image" src="https://github.com/user-attachments/assets/c229688a-0bda-41e4-b184-28693c99b14d" />
+
+
