@@ -1341,3 +1341,5 @@ but before you do this you need the required footprints and here they are-
 <img width="664" height="846" alt="image" src="https://github.com/user-attachments/assets/c229688a-0bda-41e4-b184-28693c99b14d" />
 
 
+
+<img width="625" height="78" alt="image" src="https://github.com/user-attachments/assets/999cafc6-7ec4-4acd-9130-ebf24acce5e8" />
