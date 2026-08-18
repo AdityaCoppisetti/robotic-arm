@@ -59,6 +59,7 @@ you then have to go back to the planetary gear simulation and fill in the inform
 
 MAKE SURE YOU PUT THAT YOU HAVE 3 PLANET RINGS.
 
+
 ( a few hours ago i had no clue what onshape even was and now im teaching in my github repo like wow what a nerd)
 
 IF YOU EVER WANT TO LEARN MORE ABOUT GEARS AND THEIR MECHANISMS HERE IS THE BEST SITE IN MY OPINION-
