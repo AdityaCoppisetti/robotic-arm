@@ -1294,3 +1294,7 @@ i like to keep my texts small so if you want to recreate this , it'll be in this
 
 i think i will be going over this again and including a type c port but then since im a photographer i have a ton of cameras which use that pin so i already have a ton of wires laying around which arent
 being used 
+
+
+# the general purpose input output pins (gpio pins) 
+
