@@ -1380,3 +1380,9 @@ it looks so so good
 
 <img width="1102" height="647" alt="image" src="https://github.com/user-attachments/assets/40a95a1f-07de-4eb5-be9b-b48e5f128e9c" />
 
+
+i finished placing my components ive gotten so much better at ts 
+
+<img width="1102" height="647" alt="image" src="https://github.com/user-attachments/assets/0e5fab0e-3871-420f-8385-2157a06c04ee" />
+
+
