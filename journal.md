@@ -1300,3 +1300,6 @@ being used
 
 well these are just normal pinheaders so idk what to say tbh 
 
+
+# LM1117MP-5.0power management 
+
