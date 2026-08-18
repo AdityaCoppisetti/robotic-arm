@@ -1366,3 +1366,6 @@ here is how the board looks like so far i am still placing components
 Also i removed the mounting holes and the testpoints as i want this to be as compact as it can be 
 
 im also i placing alot of components on the other side of the board as its a tiny and compact board
+
+
+this is shaping out to be so good and its making me realise how much more i have to practice
