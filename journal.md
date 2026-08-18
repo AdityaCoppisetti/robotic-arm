@@ -1271,3 +1271,5 @@ lets make the schematic
 
 
 ## ARDUINO NANO SCHEMATIC 
+
+the schematic consists of 4 parts 
