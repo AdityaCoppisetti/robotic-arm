@@ -1277,3 +1277,6 @@ the schematic consists of 4 parts well 5 parts if you include the mounting holes
 
 # the ATmega328P-M microcontroller chip 
 
+<img width="564" height="617" alt="image" src="https://github.com/user-attachments/assets/85ddd865-c6f5-4871-8cc7-81fa04380e3d" />
+
+
