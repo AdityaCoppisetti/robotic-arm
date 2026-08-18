@@ -1349,3 +1349,9 @@ now lets get onto making the pcb
 
 
 okay so the way i was routing everything was a big mess so ive deleted the first design and it wasnt much that i wouldve shown so im just going to start designing it again 
+
+
+here is the physical board stackup 
+
+<img width="984" height="601" alt="image" src="https://github.com/user-attachments/assets/ca591ded-2236-4278-9cbd-4ff75d06dbcd" />
+
