@@ -1355,3 +1355,6 @@ here is the physical board stackup
 
 <img width="984" height="601" alt="image" src="https://github.com/user-attachments/assets/ca591ded-2236-4278-9cbd-4ff75d06dbcd" />
 
+
+here is how the board looks like so far i am still placing components 
+
