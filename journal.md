@@ -1280,3 +1280,4 @@ the schematic consists of 4 parts well 5 parts if you include the mounting holes
 <img width="564" height="617" alt="image" src="https://github.com/user-attachments/assets/85ddd865-c6f5-4871-8cc7-81fa04380e3d" />
 
 
+i like to keep my texts small so if you want to recreate this , it'll be in this github repo 
