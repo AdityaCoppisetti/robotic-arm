@@ -1345,3 +1345,6 @@ but before you do this you need the required footprints and here they are-
 <img width="625" height="78" alt="image" src="https://github.com/user-attachments/assets/999cafc6-7ec4-4acd-9130-ebf24acce5e8" />
 
 now lets get onto making the pcb 
+
+
+okay so the way i was routing everything was a big mess so ive deleted the first design and it wasnt much that i wouldve shown so im just going to start designing it again 
