@@ -1305,4 +1305,7 @@ well these are just normal pinheaders so idk what to say tbh
 this is what manages the power in the board ig 
 
 
+i actually dont know if the raspberry zero 2w will be able to supply the needed current for the microcontroller
+
+
 
