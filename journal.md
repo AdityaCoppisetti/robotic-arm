@@ -1273,3 +1273,7 @@ lets make the schematic
 ## ARDUINO NANO SCHEMATIC 
 
 the schematic consists of 4 parts well 5 parts if you include the mounting holes
+
+
+# the ATmega328P-M microcontroller chip 
+
