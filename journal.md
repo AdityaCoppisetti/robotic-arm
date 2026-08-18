@@ -1327,3 +1327,13 @@ lets build the pcb now
 
 
 ## THE MICROCONTROLLER PCB 
+
+Here are the components after we update it from the schematic 
+
+<img width="576" height="540" alt="image" src="https://github.com/user-attachments/assets/42d94545-0407-4dca-ad6f-ea53381004d4" />
+
+
+but before you do this you need the required footprints and here they are- 
+
+
+
