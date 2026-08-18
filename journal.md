@@ -1284,3 +1284,6 @@ decided to build my own
 
 
 i like to keep my texts small so if you want to recreate this , it'll be in this github repo 
+
+
+# the usb- b and FT232RL usb interface 
