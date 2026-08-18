@@ -1392,3 +1392,6 @@ i fucking love building custom pcb's its so funnnnn
 
 <img width="1064" height="555" alt="image" src="https://github.com/user-attachments/assets/785e74e1-1f44-4b02-9edb-d3994c5146de" />
 
+
+ALLLLLLLLLL DONE WITH THE ARDUINO NANO ROUTING IT LOOKS SOOOO COOOOOL 
+
