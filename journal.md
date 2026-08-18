@@ -1272,4 +1272,4 @@ lets make the schematic
 
 ## ARDUINO NANO SCHEMATIC 
 
-the schematic consists of 4 parts 
+the schematic consists of 4 parts well 5 parts if you include the mounting holes
