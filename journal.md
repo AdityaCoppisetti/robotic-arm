@@ -1300,3 +1300,6 @@ being used
 
 <img width="813" height="629" alt="image" src="https://github.com/user-attachments/assets/93cd149c-d106-430c-b311-4b4bb1661457" />
 
+
+well these are just normal pinheaders so idk what to say tbh 
+
