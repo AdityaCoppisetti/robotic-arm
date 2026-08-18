@@ -1306,6 +1306,4 @@ this is what manages the power in the board ig
 
 
 i actually dont know if the raspberry zero 2w will be able to supply the needed current for the microcontroller
-
-
-
+okay so ssince im using a classic arduino nano ATmega328P , i can use the usb to power AND communicate to the arduino nano over usb. 
