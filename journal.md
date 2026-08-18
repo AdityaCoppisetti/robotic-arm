@@ -1274,6 +1274,9 @@ lets make the schematic
 
 the schematic consists of 4 parts well 5 parts if you include the mounting holes
 
+i will be using the arduino nano because it compact and really easy to make , you can use an external one , however i want to enhance my skills and i love building custom microcontrollers so i 
+decided to build my own 
+
 
 # the ATmega328P-M microcontroller chip 
 
