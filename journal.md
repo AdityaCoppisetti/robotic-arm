@@ -16,6 +16,9 @@ Planetary gear mechanisms provide superior high torque density, allowing them to
 <img width="1112" height="475" alt="image" src="https://github.com/user-attachments/assets/6631c75f-6018-44dd-884f-2097b6933205" />
 
 
+
+
+
 and i thought this would be incredibly easy to make but i was incredibly wrong.
 until i picked up this project i didnt even know what a planetary gear shift system is. i have never worked on stuff like this and this is my first time using cad aswell.
 
