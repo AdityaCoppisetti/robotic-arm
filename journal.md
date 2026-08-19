@@ -1411,3 +1411,6 @@ im perfectly okay with this
 
 i added fill zones 
 
+<img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/fdf8b013-f793-4028-a8a2-3a1a0e6bc398" />
+
+
