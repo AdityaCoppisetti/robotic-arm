@@ -1493,3 +1493,9 @@ is taking power from the arduino and then it is also taking power from an extern
 
 which means that we would also have to change that in the pinheaders we copied from the arduino nano schematic and label them as gnd_1
 
+
+this is how that looks like 
+
+<img width="1327" height="734" alt="image" src="https://github.com/user-attachments/assets/7b268f8a-3b1b-4b84-ad13-6a8611d66c48" />
+
+
