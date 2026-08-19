@@ -1468,5 +1468,7 @@ starting with a blank sketch
 
 
 here is what im going to do 
-im going to copy paste the pinheaders from the arduino nano and then wire everything on the main pcb using that 
+im going to copy paste the pinheaders from the arduino nano and then wire everything on the main pcb using that.
+
+i was just a little confused with the capacitor in each circuit so i checked it out on youtube , it wasnt much help but i found this 
 
