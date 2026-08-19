@@ -1663,3 +1663,7 @@ i could add glossy keycaps to turn it on or off!!!! this is so fun)
 
 <img width="709" height="672" alt="image" src="https://github.com/user-attachments/assets/bb6be198-213b-4709-a10f-6a93c7e01a8c" />
 
+
+here is how the pcb looks like in 3d view
+
+
