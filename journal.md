@@ -124,6 +124,7 @@ it may be because i havent done this kind of work in a while. it feels refreshin
 
 ive made until this and only one portion remains. 
 
+
 <img width="589" height="698" alt="Screenshot From 2026-07-08 18-09-43" src="https://github.com/user-attachments/assets/4bbc6618-f942-467d-89e4-36a3a53d5381" />
 
 i know i know it looks weird but this is my first time making one and that includes first time using cad.
