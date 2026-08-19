@@ -1446,3 +1446,5 @@ okay so the microcontroller is done and i still need to make the main pcb and i 
 
 now see i have 2 options for the main pcb 
 
+option 1 - have the arduino nano be on the main board permanently 
+
