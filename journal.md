@@ -1670,4 +1670,8 @@ here is how the pcb looks like in 3d view
 
 <img width="810" height="589" alt="image" src="https://github.com/user-attachments/assets/8a4d930e-2d60-4c21-81d2-3a2237aab3fc" />
 
+and the bottom 
+
+
+<img width="810" height="589" alt="image" src="https://github.com/user-attachments/assets/fa9c5a80-f522-4fba-884e-e27b46fd972b" />
 
