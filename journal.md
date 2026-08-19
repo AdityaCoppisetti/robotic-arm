@@ -1453,3 +1453,6 @@ option 2 - have the arduino nano be connected to the main pcb using pinheaders
 
 now i actually prefer the option 2 
 
+why? 
+
+
