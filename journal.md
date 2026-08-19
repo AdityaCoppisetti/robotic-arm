@@ -1472,3 +1472,7 @@ im going to copy paste the pinheaders from the arduino nano and then wire everyt
 
 i was just a little confused with the capacitor in each circuit so i checked it out on youtube , it wasnt much help but i found this 
 
+
+<img width="524" height="302" alt="image" src="https://github.com/user-attachments/assets/507041f5-3fd0-4550-a630-83a221671008" />
+
+
