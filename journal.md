@@ -1608,3 +1608,6 @@ notice how i changed the pinout for gnd to gnd 1
 
 
 now lets wire the servo motor 
+
+
+final schematic 
