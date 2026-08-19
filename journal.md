@@ -1600,3 +1600,5 @@ here is how they look
 
 oops forgot to connect it to the nano pinout
 
+here is how that looks like 
+
