@@ -1656,7 +1656,10 @@ im finally done with the routing
 
 
 
-Here is the finished pcb with all the routing and even space for the raspberry pi , although i do not like the space on the side so i might build something there ( keyboard led matrix foreshadow , wait i could add glossy keycaps to turn it on or off!!!! this is so fun) 
+Here is the finished pcb with all the routing and even space for the raspberry pi , 
+although i do not like the space on the side so i might build something there ( keyboard led matrix foreshadow , wait 
+i could add glossy keycaps to turn it on or off!!!! this is so fun) 
 
 
+<img width="709" height="672" alt="image" src="https://github.com/user-attachments/assets/bb6be198-213b-4709-a10f-6a93c7e01a8c" />
 
