@@ -1460,3 +1460,7 @@ i would then be able to use the arduino nano externally and however i want , rat
 
 i have a keyboard project which has an led matrix module which i could use with the arduino nani and make it into a badge 
 
+
+okay so now here is what im going to do , i going to create a new project called " main pcb" and im going to rename this project as arduino nano 
+
+
