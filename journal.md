@@ -1638,3 +1638,6 @@ i dont think i have wired it correctly but its okay since ill be buying a extern
 
 
 #               MAIN BOARD PCB 
+
+
+These are the components in the pcb editor for the main pcb 
