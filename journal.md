@@ -1476,3 +1476,6 @@ i was just a little confused with the capacitor in each circuit so i checked it 
 <img width="524" height="302" alt="image" src="https://github.com/user-attachments/assets/507041f5-3fd0-4550-a630-83a221671008" />
 
 
+but see i wont be putting a 12v external plug for each stepper motor because thats 6 plugs and it wouldnt make sense
+
+
