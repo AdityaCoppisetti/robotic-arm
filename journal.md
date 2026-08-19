@@ -1654,3 +1654,9 @@ im finally done with the routing
 
 <img width="1058" height="648" alt="image" src="https://github.com/user-attachments/assets/46e6f2bd-8f81-418c-836b-27c4f64bb7a0" />
 
+
+
+Here is the finished pcb with all the routing and even space for the raspberry pi , although i do not like the space on the side so i might build something there ( keyboard led matrix foreshadow , wait i could add glossy keycaps to turn it on or off!!!! this is so fun) 
+
+
+
