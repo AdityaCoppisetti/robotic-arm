@@ -1637,4 +1637,4 @@ i dont think i have wired it correctly but its okay since ill be buying a extern
 
 
 
-MAIN BOARD PCB 
+#               MAIN BOARD PCB 
