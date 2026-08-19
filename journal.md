@@ -1553,5 +1553,5 @@ i will be using this capacitor
 <img width="1213" height="605" alt="image" src="https://github.com/user-attachments/assets/461c67af-af67-406b-9a73-1737ba7ed98b" />
 
 
- 
+ also i removed the diode as its smoother without it 
 
