@@ -1621,3 +1621,6 @@ here is how the final schematic looks like
 
 okay so i now have to build the pcb and then i have to design a stand or like smth for it because i dont want just the plain pcb on the desk 
 
+
+i also added a dc jack in the schematic 
+
