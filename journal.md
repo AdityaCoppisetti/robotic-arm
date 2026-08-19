@@ -1644,3 +1644,4 @@ These are the components in the pcb editor for the main pcb
 
 <img width="671" height="551" alt="image" src="https://github.com/user-attachments/assets/87eef207-8c8e-42cc-8a95-509bbd5bc9a5" />
 
+now lets place them and make the pcb!
