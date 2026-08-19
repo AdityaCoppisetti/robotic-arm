@@ -1455,4 +1455,5 @@ now i actually prefer the option 2
 
 why? 
 
+i would then be able to use the arduino nano externally and however i want , rather it being used just for the robotic arm 
 
