@@ -1431,3 +1431,6 @@ here is the bottom of the pcb
 
 <img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/316b226c-f1a1-431d-8a0b-a2f1bc1ac9b6" />
 
+sand i'll obviously give a lil 360
+
+
