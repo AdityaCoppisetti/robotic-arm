@@ -1483,3 +1483,6 @@ so i will adding just one one external power supply port and i guess i already h
 
 This is how ive wired the module 
 
+
+<img width="540" height="684" alt="image" src="https://github.com/user-attachments/assets/63c1f253-0664-46e4-9802-49db23b4eda4" />
+
