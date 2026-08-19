@@ -1400,3 +1400,6 @@ i actually forgot to add fill zones
 
 and then i want to add a usb c im not actually sure about that , and then i need to build the entire pcb and not just this
 
+
+also at first i made the edgecuts layer very very weird , but im okay with keeping it as a rectangle
+
