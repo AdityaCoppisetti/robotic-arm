@@ -1441,6 +1441,6 @@ https://github.com/user-attachments/assets/e9517a0c-779f-49d6-9484-9a5c57885ef6
 
 
 
-
+okay so the microcontroller is done and i still need to make the main pcb and i also have this mount in mind so that i can attach the pcb on the base of the robotic arm 
 
 
