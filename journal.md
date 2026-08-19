@@ -1569,6 +1569,9 @@ now lets get working on the 3rd module , we will basically repeat this till we h
 Completed the 3rd driver , i lowkey sometime make one of these modules on my own 
 
 
+
+<img width="1154" height="307" alt="image" src="https://github.com/user-attachments/assets/f832eb62-29ef-44b8-811f-9f8bf5e602d9" />
+
 3 more to go! 
 
 
