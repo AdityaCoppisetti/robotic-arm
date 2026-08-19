@@ -1555,3 +1555,4 @@ i will be using this capacitor
 
  also i removed the diode as its smoother without it 
 
+the second module is the same just the labels are different
