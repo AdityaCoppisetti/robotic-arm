@@ -1422,3 +1422,6 @@ i added one fill zone for each layer
 here is how the pcb looks like in 3d view
 
 here is the top of the pcb 
+
+<img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/efb393cf-c822-49c2-b255-bdcd2d64d453" />
+
