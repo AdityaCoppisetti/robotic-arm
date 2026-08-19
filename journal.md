@@ -1675,3 +1675,7 @@ and the bottom
 
 <img width="810" height="589" alt="image" src="https://github.com/user-attachments/assets/fa9c5a80-f522-4fba-884e-e27b46fd972b" />
 
+
+
+and obviously here is a lil 360 
+
