@@ -1593,3 +1593,5 @@ and then servo motor
 
 
 Im done with all 6 
+
+here is how they look 
