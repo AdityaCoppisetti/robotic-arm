@@ -1602,3 +1602,4 @@ oops forgot to connect it to the nano pinout
 
 here is how that looks like 
 
+<img width="596" height="594" alt="image" src="https://github.com/user-attachments/assets/f5e41582-5fd5-4859-bbcb-dbf2146e2e2f" />
