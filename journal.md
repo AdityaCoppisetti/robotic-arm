@@ -1633,5 +1633,5 @@ i dont think i have wired it correctly but its okay since ill be buying a extern
 # footprints for the main pcb 
 
 
-**<img width="671" height="551" alt="image" src="https://github.com/user-attachments/assets/665c8efd-be28-4e40-90be-4a73980bd247" />
-**
+<img width="671" height="551" alt="image" src="https://github.com/user-attachments/assets/665c8efd-be28-4e40-90be-4a73980bd247" />
+
