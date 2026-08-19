@@ -1448,3 +1448,5 @@ now see i have 2 options for the main pcb
 
 option 1 - have the arduino nano be on the main board permanently 
 
+option 2 - have the arduino nano be connected to the main pcb using pinheaders 
+
