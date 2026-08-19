@@ -1618,3 +1618,6 @@ here is how the final schematic looks like
 <img width="1179" height="642" alt="image" src="https://github.com/user-attachments/assets/49e49977-b837-4fb2-8d58-f33cd7d2a20d" />
 
 
+
+okay so i now have to build the pcb and then i have to design a stand or like smth for it because i dont want just the plain pcb on the desk 
+
