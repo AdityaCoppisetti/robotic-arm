@@ -1417,3 +1417,8 @@ i added fill zones
 i added one fill zone for each layer 
 
 
+
+
+here is how the pcb looks like in 3d view
+
+
