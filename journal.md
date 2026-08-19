@@ -1408,3 +1408,6 @@ im perfectly okay with this
 
 <img width="794" height="396" alt="image" src="https://github.com/user-attachments/assets/cf3bec4a-f234-4b16-87e0-d204622b6dfa" />
 
+
+i added fill zones 
+
