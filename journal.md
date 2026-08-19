@@ -1541,12 +1541,16 @@ if you prefer you can add the smd capacitors
 
 but i want through the hole ones as i like soldering them for some reason and they are pretty cheap 
 
-<img width="1213" height="605" alt="image" src="https://github.com/user-attachments/assets/48f4bbc5-4457-4121-89cf-55eeb8547b1d" />
 
 
  the important rule is that the capacitors voltage rating must be higher that the voltage im applying 
  so the supply is 12v 
  and the capacitor is 100 uf , 35v so thats perfectly safe to use 
+
+
+i will be using this capacitor 
+
+<img width="1213" height="605" alt="image" src="https://github.com/user-attachments/assets/461c67af-af67-406b-9a73-1737ba7ed98b" />
 
 
  
