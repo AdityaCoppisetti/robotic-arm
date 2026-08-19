@@ -1562,3 +1562,7 @@ here is how that looks like
 
 <img width="464" height="471" alt="image" src="https://github.com/user-attachments/assets/a0a9ecbd-a6c0-477a-b229-bb576737cf3e" />
 
+
+now lets get working on the 3rd module , we will basically repeat this till we have the required 6 drivers setup
+
+
