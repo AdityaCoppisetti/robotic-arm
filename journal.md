@@ -1434,3 +1434,5 @@ here is the bottom of the pcb
 and i'll obviously give a lil 360
 
 
+
+
