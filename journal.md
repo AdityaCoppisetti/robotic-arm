@@ -1548,3 +1548,6 @@ but i want through the hole ones as i like soldering them for some reason and th
  so the supply is 12v 
  and the capacitor is 100 uf , 35v so thats perfectly safe to use 
 
+
+ 
+
