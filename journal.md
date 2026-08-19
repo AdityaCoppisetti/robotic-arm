@@ -1556,3 +1556,8 @@ i will be using this capacitor
  also i removed the diode as its smoother without it 
 
 the second module is the same just the labels are different
+
+
+here is how that looks like 
+
+<img width="464" height="471" alt="image" src="https://github.com/user-attachments/assets/99b00b74-8d67-47c2-a7ba-fa0384304ad0" />
