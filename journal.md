@@ -1398,4 +1398,5 @@ ALLLLLLLLLL DONE WITH THE ARDUINO NANO ROUTING IT LOOKS SOOOO COOOOOL
 
 i actually forgot to add fill zones
 
+and then i want to add a usb c im not actually sure about that , and then i need to build the entire pcb and not just this
 
