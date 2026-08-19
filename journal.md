@@ -1612,4 +1612,8 @@ now lets wire the servo motor
 
 ## final schematic 
 
+here is how the final schematic looks like 
+
+<img width="1179" height="642" alt="image" src="https://github.com/user-attachments/assets/49e49977-b837-4fb2-8d58-f33cd7d2a20d" />
+
 
