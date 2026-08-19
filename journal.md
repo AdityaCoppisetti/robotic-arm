@@ -1488,3 +1488,5 @@ This is how ive wired the module
 
 and you must be wondering that there are 2 types of ground and that is because the module 
 
+is taking power from the arduino and then it is also taking power from an external 12v power supply to give to the stepper motors 
+
