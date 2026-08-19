@@ -1395,3 +1395,7 @@ i fucking love building custom pcb's its so funnnnn
 
 ALLLLLLLLLL DONE WITH THE ARDUINO NANO ROUTING IT LOOKS SOOOO COOOOOL 
 
+
+i actually forgot to add fill zones
+
+
