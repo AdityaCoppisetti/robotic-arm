@@ -1481,5 +1481,5 @@ but see i wont be putting a 12v external plug for each stepper motor because tha
 so i will adding just one one external power supply port and i guess i already have one because my friend bought it for his raspberry pi , but i dont know it thats safe . 
 
 
-
+This is how ive wired the module 
 
