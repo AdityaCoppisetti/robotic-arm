@@ -1512,3 +1512,7 @@ ive added the number 1 in front of the labels
 
 and ive named the J1 ( the pinheader for the motor to plug into) as BASE so that its easy to identify
 
+
+for the rest ill be naming them joint wise 
+
+
