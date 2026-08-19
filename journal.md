@@ -1624,3 +1624,4 @@ okay so i now have to build the pcb and then i have to design a stand or like sm
 
 i also added a dc jack in the schematic 
 
+i dont think i have wired it correctly but its okay since ill be buying a external dc jack input
