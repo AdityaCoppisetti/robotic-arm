@@ -1630,4 +1630,4 @@ i dont think i have wired it correctly but its okay since ill be buying a extern
 <img width="492" height="472" alt="image" src="https://github.com/user-attachments/assets/193fe438-c6da-401f-9acf-87109318aeb4" />
 
 
-footprints for the main pcb 
+# footprints for the main pcb 
