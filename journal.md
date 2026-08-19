@@ -1520,3 +1520,6 @@ i.e ill be naming them joint 1 , joint 2 and so on
 
 i also forget that we need to add a capacitor to the circuit along with a diode
 
+
+i added it in the schematic 
+
