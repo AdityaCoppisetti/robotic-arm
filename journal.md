@@ -1611,3 +1611,5 @@ now lets wire the servo motor
 
 
 ## final schematic 
+
+
