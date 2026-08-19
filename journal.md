@@ -1468,4 +1468,5 @@ starting with a blank sketch
 
 
 here is what im going to do 
+im going to copy paste the pinheaders from the arduino nano and then wire everything on the main pcb using that 
 
