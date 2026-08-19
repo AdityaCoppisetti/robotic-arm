@@ -1650,3 +1650,7 @@ now lets place them and make the pcb!
 
 
 im finally done with the routing 
+
+
+<img width="1058" height="648" alt="image" src="https://github.com/user-attachments/assets/46e6f2bd-8f81-418c-836b-27c4f64bb7a0" />
+
