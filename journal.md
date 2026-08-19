@@ -1464,3 +1464,6 @@ i have a keyboard project which has an led matrix module which i could use with 
 okay so now here is what im going to do , i going to create a new project called " main pcb" and im going to rename this project as arduino nano 
 
 
+starting with a blank sketch
+
+
