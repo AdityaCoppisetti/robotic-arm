@@ -1457,3 +1457,6 @@ why?
 
 i would then be able to use the arduino nano externally and however i want , rather it being used just for the robotic arm 
 
+
+i have a keyboard project which has an led matrix module which i could use with the arduino nani and make it into a badge 
+
