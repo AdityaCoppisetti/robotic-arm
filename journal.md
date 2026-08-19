@@ -1507,3 +1507,5 @@ you can take a look and just figure it out
 
 <img width="532" height="582" alt="image" src="https://github.com/user-attachments/assets/47e5a344-e714-4a55-a627-9022c584a2c9" />
 
+ive added the number 1 in front of the labels 
+
