@@ -1523,3 +1523,7 @@ i also forget that we need to add a capacitor to the circuit along with a diode
 
 i added it in the schematic 
 
+
+<img width="606" height="625" alt="image" src="https://github.com/user-attachments/assets/bfc62fad-cbbb-4067-a4d3-d3774dee6c6e" />
+
+
