@@ -1534,4 +1534,5 @@ also i need to add output for the servo motor in the gripper
 
 this is the module 1 
 
+if you prefer you can add the smd capacitors 
 
