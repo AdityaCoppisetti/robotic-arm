@@ -1490,3 +1490,6 @@ and you must be wondering that there are 2 types of ground and that is because t
 
 is taking power from the arduino and then it is also taking power from an external 12v power supply to give to the stepper motors 
 
+
+which means that we would also have to change that in the pinheaders we copied from the arduino nano schematic and label them as gnd_1
+
