@@ -1538,4 +1538,6 @@ if you prefer you can add the smd capacitors
 
 <img width="1213" height="605" alt="image" src="https://github.com/user-attachments/assets/7539a128-3d56-461b-bb8f-8aed21e33fc2" />
 
+but i want through the hole ones as i like soldering them for some reason and they are pretty cheap 
+
 
