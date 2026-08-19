@@ -1515,4 +1515,5 @@ and ive named the J1 ( the pinheader for the motor to plug into) as BASE so that
 
 for the rest ill be naming them joint wise 
 
+i.e ill be naming them joint 1 , joint 2 and so on 
 
