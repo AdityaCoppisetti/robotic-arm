@@ -1403,3 +1403,5 @@ and then i want to add a usb c im not actually sure about that , and then i need
 
 also at first i made the edgecuts layer very very weird , but im okay with keeping it as a rectangle
 
+im perfectly okay with this 
+
