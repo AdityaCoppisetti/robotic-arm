@@ -1715,3 +1715,6 @@ i would add 4 switches
 and then one would be for the calibration , i want to do the auto calibration in the software however i do want the option to have a manual button , plus glossy keycaps would go so hard . 
 
 and then the 2 buttons could be used to go up and down on the menu and then long press on a button could be used for selecting something 
+
+
+also i dont want to have to externally power the raspberry 2w as i dont want the hassle of using all the plugs i have , i could howver fix this problem with a extension chord, i would like to make it so its not a mess of wires 
