@@ -1700,3 +1700,5 @@ its either i remove it entirely or i put something on the free space
 althogh you know what i do have this idea 
 
 
+
+i want to put keyboard switches as functional switch on the side of the pcb in the free space
