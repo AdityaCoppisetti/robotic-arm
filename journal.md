@@ -1693,3 +1693,5 @@ i removed the raspberry section from the pcb , not because im removing the raspb
 its either i remove it entirely or i put something on the free space 
 
 
+althogh you know what i do have this idea 
+
