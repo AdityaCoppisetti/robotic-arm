@@ -1718,3 +1718,7 @@ and then the 2 buttons could be used to go up and down on the menu and then long
 
 
 also i dont want to have to externally power the raspberry 2w as i dont want the hassle of using all the plugs i have , i could howver fix this problem with a extension chord, i would like to make it so its not a mess of wires 
+
+
+
+also on top of the raspberry pi i want to add a screen that will show the robot in ros or moveit ykwim plus i would be able to access it remotely 
