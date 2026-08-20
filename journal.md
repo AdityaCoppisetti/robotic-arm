@@ -1690,8 +1690,13 @@ https://github.com/user-attachments/assets/e47a3eab-e3a3-4c1f-93bd-4d83aabd0c61
 
 i removed the raspberry section from the pcb , not because im removing the raspberry pi but because i think it looks weird with that free space beside it , 
 
+
+<img width="783" height="470" alt="image" src="https://github.com/user-attachments/assets/27628e8a-5734-4d31-b940-b3701f5c481b" />
+
+
 its either i remove it entirely or i put something on the free space 
 
 
 althogh you know what i do have this idea 
+
 
