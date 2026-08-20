@@ -1708,6 +1708,9 @@ i want to put keyboard switches as functional switch on the side of the pcb in t
 i would add 4 switches 
 
 
+
+
+
 1 would be connected to the en on the drivers so that i could stop them in a emergency. 
 and then one would be for the calibration , i want to do the auto calibration in the software however i do want the option to have a manual button , plus glossy keycaps would go so hard . 
 
