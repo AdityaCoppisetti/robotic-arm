@@ -1702,3 +1702,7 @@ althogh you know what i do have this idea
 
 
 i want to put keyboard switches as functional switch on the side of the pcb in the free space
+
+
+
+i would add 4 switches 
