@@ -1730,3 +1730,4 @@ but in order for me to do that i need to find a display that isnt a raspberry pi
 
 
 i also want to add a mid sized character lcd display because i think thats super cool 
+i found this hdmi display but i guess that would just add a long hdmi wire to everything plus its like 5 inches big i dont need a display that big 
