@@ -1726,3 +1726,7 @@ also on top of the raspberry pi i want to add a screen that will show the robot 
 if i mount the raspberry pi on the back of the main pcb along with the capacitors then make a 3d printed bracket adaptor for the screen that would make it so much less bulky. 
 
 but in order for me to do that i need to find a display that isnt a raspberry pi HAT so i can use normal cables for it and not like a whole fucking mess , plus i want one that doesnt have many cables going into it 
+
+
+
+i also want to add a mid sized character lcd display because i think thats super cool 
