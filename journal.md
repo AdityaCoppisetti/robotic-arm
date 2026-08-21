@@ -1748,5 +1748,5 @@ also i will be putting a dc jack on the main pcb that will output the 12v so tha
 
 giving  the raspberry pi zero 12volts will destroy the board so ill just give it external 5v from a charger that i have 
 
-
+because it also needs to supply power the the custom arduino nano microcontroller that i made which reminds me i need to put custom images on the board
 
