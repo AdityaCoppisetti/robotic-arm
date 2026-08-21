@@ -92,6 +92,7 @@ i reverse engineered this-
 
 <img width="626" height="553" alt="image" src="https://github.com/user-attachments/assets/b29563e0-40d2-46fd-b6e7-f1270d41fa38" />
 
+
 and made my own-
 ( i know it aint that good but its workable)
 
