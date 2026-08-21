@@ -1866,4 +1866,8 @@ and here is the arduino nano on the main pcb
 <img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/e507b05c-159f-4089-af81-9b370224b45d" />
 
 
+i found the a4988 stepper motor driver cad in .step file and im using that to make the mockup , ive linked it to the github repo
+
+
+
 
