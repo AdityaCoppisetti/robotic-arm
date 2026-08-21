@@ -1833,3 +1833,6 @@ however 55-60 degrees would also work
 
 however i do want to use the angle to my advantage because then i would be able to hide the wires and the power supply behind the board 
 
+
+
+here is the board with the mount and on a 45 degree angle 
