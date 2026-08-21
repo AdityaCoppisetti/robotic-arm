@@ -1825,3 +1825,11 @@ i used the transform feature to copy the board and rotate it so that its at a 45
 
 
 however 55-60 degrees would also work 
+
+
+
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/bf188c8a-005b-451a-a573-a36632fc89e5" />
+
+
+
+
