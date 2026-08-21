@@ -1762,3 +1762,6 @@ another thing to change is that i incorrectly labelled the joint pinheaders on t
 
 the labeling here indicates that there are only 5 joints as ive labelled one as base and then said joint 1 and onwards so i need to fix that 
 
+
+
+Now that its done lets make holes so that i can mount the pcb on the 3d printed mount ill make 
