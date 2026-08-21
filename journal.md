@@ -1852,3 +1852,7 @@ now lets open onshape part assembly and put the arduino nano where it should go 
 
 
 oh and here is the arduino nano in onshape after we exported it 
+
+
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/7301fad4-47db-4769-b87f-5bc0daba7fdb" />
+
