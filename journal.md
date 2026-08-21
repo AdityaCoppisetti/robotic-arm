@@ -1787,5 +1787,5 @@ and to get everything precise i will be exporting everything in .step file
 
 
 
-before that here is the compact version of the pcb with the fill xones 
+before that here is the compact version of the pcb with the fill zones 
 
