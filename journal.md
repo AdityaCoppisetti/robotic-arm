@@ -1842,3 +1842,6 @@ however i do want to use the angle to my advantage because then i would be able 
 
 
 here is the board with the mount and on a 45 degree angle 
+
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/b8f439f5-0463-484d-8cab-ed944981bb34" />
+
