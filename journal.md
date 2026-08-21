@@ -1892,4 +1892,4 @@ i created the mockup , i imported the arduino from the public library in onshape
 
 
 this wont be the frontend. 
-the front end is going to be the 
+the front end is going to be a screen with the glossy keycaps so lets design that as that will house the raspberry pi aswell  
