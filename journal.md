@@ -1741,3 +1741,10 @@ ive decided that im going to keep the main pcb like that because i dont want eve
 
 
 also i will be putting a dc jack on the main pcb that will output the 12v so that i can power the pi zero 2w
+
+
+<img width="713" height="333" alt="image" src="https://github.com/user-attachments/assets/da33ebbf-9b67-4f66-8792-a47a02dad765" />
+
+
+
+
