@@ -1746,5 +1746,7 @@ also i will be putting a dc jack on the main pcb that will output the 12v so tha
 <img width="713" height="333" alt="image" src="https://github.com/user-attachments/assets/da33ebbf-9b67-4f66-8792-a47a02dad765" />
 
 
+giving  the raspberry pi zero 12volts will destroy the board so ill just give it external 5v from a charger that i have 
+
 
 
