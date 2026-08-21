@@ -1776,3 +1776,5 @@ i made the holes and here is how they looks like
 
 now lets make the pcb mount on onshape 
 
+
+and to get everything precise i will be exporting everything in .step file 
