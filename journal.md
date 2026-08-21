@@ -1753,3 +1753,6 @@ because it also needs to supply power the the custom arduino nano microcontrolle
 
 with all that i guess im done with the main pcb but just one small thing is remaining , i want to create a custom 3d printed stand thingy for it and ill be making the front end with the raspberry pi and the display along with the glossy keycaps , the screen will be showing the raspberry pi running ros alongside 
 
+
+
+another thing to change is that i incorrectly labelled the joint pinheaders on the main pcb 
