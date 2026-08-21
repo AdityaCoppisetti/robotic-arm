@@ -1861,3 +1861,9 @@ oh and here is the arduino nano in onshape after we exported it
 
 
 and here is the arduino nano on the main pcb 
+
+
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/e507b05c-159f-4089-af81-9b370224b45d" />
+
+
+
