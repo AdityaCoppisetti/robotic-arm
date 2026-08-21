@@ -1823,3 +1823,5 @@ here is how the pcb looks like in onshape
 
 i used the transform feature to copy the board and rotate it so that its at a 45 degree angle 
 
+
+however 55-60 degrees would also work 
