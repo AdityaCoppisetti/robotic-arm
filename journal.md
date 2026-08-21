@@ -1735,3 +1735,6 @@ i found this hdmi display but i guess that would just add a long hdmi wire to ev
 
 
 ive decided that im going to keep the main pcb like that because i dont want everything on one board 
+
+
+also i will be putting a dc jack on the main pcb that will output the 12v so that i can power the pi zero 2w
