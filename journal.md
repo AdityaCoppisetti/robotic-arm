@@ -1845,3 +1845,6 @@ here is the board with the mount and on a 45 degree angle
 
 <img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/b8f439f5-0463-484d-8cab-ed944981bb34" />
 
+
+now lets open onshape part assembly and put the arduino nano where it should go and other components if i can find their cad file 
+
