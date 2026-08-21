@@ -1818,4 +1818,6 @@ when exporting we want to keep them in the same part studio
 here is how the pcb looks like in onshape 
 
 
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/ae3d3776-39e0-48f8-8b1e-a597601f7c50" />
+
 
