@@ -11,6 +11,7 @@ today is 12th june but this is the work that i did on june 11th. due to a hectic
  
 # THE ROBOTIC ARM BASE DESIGN
 
+
 so i was searching for way to make this , thinking of a ton of designs and i thought this would be really easy. i was wrong.
 i took me 45 mins until i landed on this- https://www.printables.com/model/930858-3d-printed-robotic-arm-actuator/files
 this is whats called a planetary gear mechanism. very popularly used amoung projects like this.
