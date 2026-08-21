@@ -1875,5 +1875,9 @@ i found the a4988 stepper motor driver cad in .step file and im using that to ma
 
 
 
+now lets import it into the document
+
+
+
 
 
