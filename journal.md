@@ -1888,3 +1888,7 @@ i created the mockup , i imported the arduino from the public library in onshape
 
 
 <img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/4b6b9fe8-e310-4b39-8682-029fa7584f17" />
+
+
+
+this wont be the frontend however
