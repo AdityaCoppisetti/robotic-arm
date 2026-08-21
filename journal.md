@@ -1831,5 +1831,5 @@ however 55-60 degrees would also work
 <img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/bf188c8a-005b-451a-a573-a36632fc89e5" />
 
 
-
+however i do want to use the angle to my advantage because then i would be able to hide the wires and the power supply behind the board 
 
