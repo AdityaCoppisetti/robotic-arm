@@ -1800,5 +1800,5 @@ now that we have have exported that as step , we also have to export the arduino
 
 
 
-and now we will open onshape and import our board 
+and now we will open onshape and import our boards
 
