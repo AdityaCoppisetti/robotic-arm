@@ -1789,3 +1789,9 @@ and to get everything precise i will be exporting everything in .step file
 
 before that here is the compact version of the pcb with the fill zones 
 
+
+
+
+<img width="1333" height="786" alt="image" src="https://github.com/user-attachments/assets/eec5e0c7-4733-49d5-a500-623123615ff0" />
+
+
