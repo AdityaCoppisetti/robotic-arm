@@ -1802,3 +1802,6 @@ now that we have have exported that as step , we also have to export the arduino
 
 and now we will open onshape and import our boards
 
+
+<img width="498" height="400" alt="image" src="https://github.com/user-attachments/assets/4987a7ea-3458-4ecc-844a-3ee1d00fc7d8" />
+
