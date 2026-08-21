@@ -1785,3 +1785,7 @@ and to get everything precise i will be exporting everything in .step file
 
 <img width="541" height="509" alt="image" src="https://github.com/user-attachments/assets/8a033561-2775-47dd-9f2e-66dd110af7a3" />
 
+
+
+before that here is the compact version of the pcb with the fill xones 
+
