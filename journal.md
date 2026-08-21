@@ -1883,3 +1883,7 @@ and then lets insert it into the assembly
 and then lets create the mockup
 
 
+
+i created the mockup , i imported the arduino from the public library in onshape and used that because it looks much better than my pcb import 
+
+
