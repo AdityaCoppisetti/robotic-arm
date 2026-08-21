@@ -1733,6 +1733,9 @@ i also want to add a mid sized character lcd display because i think thats super
 i found this hdmi display but i guess that would just add a long hdmi wire to everything plus its like 5 inches big i dont need a display that big 
 
 
+okay so i wont be adding that dc jack after all 
+
+
 
 ive decided that im going to keep the main pcb like that because i dont want everything on one board 
 
