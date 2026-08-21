@@ -1756,3 +1756,9 @@ with all that i guess im done with the main pcb but just one small thing is rema
 
 
 another thing to change is that i incorrectly labelled the joint pinheaders on the main pcb 
+
+
+<img width="330" height="818" alt="image" src="https://github.com/user-attachments/assets/babc9887-ca02-4432-b719-76071a1f73a2" />
+
+the labeling here indicates that there are only 5 joints as ive labelled one as base and then said joint 1 and onwards so i need to fix that 
+
