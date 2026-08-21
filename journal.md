@@ -1809,3 +1809,7 @@ and now we will open onshape and import our boards
 
 
 when exporting we want to keep them in the same part studio
+
+
+<img width="409" height="475" alt="image" src="https://github.com/user-attachments/assets/9e75021f-0733-45d5-b274-d2b571bf9a08" />
+
