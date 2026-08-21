@@ -1773,3 +1773,6 @@ i made the holes and here is how they looks like
 
 <img width="895" height="564" alt="image" src="https://github.com/user-attachments/assets/97778b1a-700e-40c4-8de2-eeb7d5f1c477" />
 
+
+now lets make the pcb mount on onshape 
+
