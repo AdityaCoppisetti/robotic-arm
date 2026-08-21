@@ -1796,5 +1796,5 @@ before that here is the compact version of the pcb with the fill zones
 
 
 
-now that we have have exported that as step , we also 
+now that we have have exported that as step , we also have to export the arduino nano that we made in .step file
 
