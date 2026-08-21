@@ -1776,9 +1776,6 @@ i made the holes and here is how they looks like
 
 
 
-
-
-
 now lets make the pcb mount on onshape 
 
 
