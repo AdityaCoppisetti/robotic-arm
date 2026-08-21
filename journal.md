@@ -1774,7 +1774,16 @@ i made the holes and here is how they looks like
 <img width="895" height="564" alt="image" src="https://github.com/user-attachments/assets/97778b1a-700e-40c4-8de2-eeb7d5f1c477" />
 
 
+
+
+
+
+
 now lets make the pcb mount on onshape 
 
 
 and to get everything precise i will be exporting everything in .step file 
+
+
+<img width="541" height="509" alt="image" src="https://github.com/user-attachments/assets/8a033561-2775-47dd-9f2e-66dd110af7a3" />
+
