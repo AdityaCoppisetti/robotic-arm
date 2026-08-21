@@ -1848,3 +1848,6 @@ here is the board with the mount and on a 45 degree angle
 
 now lets open onshape part assembly and put the arduino nano where it should go and other components if i can find their cad file 
 
+
+
+oh and here is the arduino nano in onshape after we exported it 
