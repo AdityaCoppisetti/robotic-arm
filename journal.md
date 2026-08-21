@@ -1887,3 +1887,4 @@ and then lets create the mockup
 i created the mockup , i imported the arduino from the public library in onshape and used that because it looks much better than my pcb import 
 
 
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/4b6b9fe8-e310-4b39-8682-029fa7584f17" />
