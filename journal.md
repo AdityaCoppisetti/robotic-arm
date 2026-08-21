@@ -1871,4 +1871,9 @@ i found the a4988 stepper motor driver cad in .step file and im using that to ma
 
 
 
+<img width="870" height="583" alt="image" src="https://github.com/user-attachments/assets/0e6471fe-72cb-46e5-9db8-a32f39317467" />
+
+
+
+
 
