@@ -1765,3 +1765,6 @@ the labeling here indicates that there are only 5 joints as ive labelled one as 
 
 
 Now that its done lets make holes so that i can mount the pcb on the 3d printed mount ill make 
+
+
+i made the holes and here is how they looks like 
