@@ -1768,3 +1768,8 @@ Now that its done lets make holes so that i can mount the pcb on the 3d printed 
 
 
 i made the holes and here is how they looks like 
+
+
+
+<img width="895" height="564" alt="image" src="https://github.com/user-attachments/assets/97778b1a-700e-40c4-8de2-eeb7d5f1c477" />
+
