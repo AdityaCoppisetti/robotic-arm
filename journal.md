@@ -1750,3 +1750,6 @@ giving  the raspberry pi zero 12volts will destroy the board so ill just give it
 
 because it also needs to supply power the the custom arduino nano microcontroller that i made which reminds me i need to put custom images on the board
 
+
+with all that i guess im done with the main pcb but just one small thing is remaining , i want to create a cus
+
