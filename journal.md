@@ -2039,3 +2039,7 @@ im making the front pcb again because i want this to be perfect
 
 
 it was hard to find 
+
+but here are the specifications for the display ill be using 
+
+
