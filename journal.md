@@ -2005,3 +2005,7 @@ i wanted to put the pcb on a angle but it seems that putting it at 90 degrees wo
 
 
 and now ill make a stand for this 
+
+
+
+here is how that looks like 
