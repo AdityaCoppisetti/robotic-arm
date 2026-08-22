@@ -1990,3 +1990,6 @@ this is the updated pcb with the limit switch pins added
 
 the dimentions of the pcb have changed which means i will have to redesign the pcb mount in onshape again 
 
+
+
+i have exported the board in .step again aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa im tired now 
