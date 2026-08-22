@@ -1959,3 +1959,7 @@ so for the switches and the resistors ill be adding the 1x2 pinheader footprints
 
 
 now that ive added the footprints 
+
+
+<img width="1174" height="656" alt="image" src="https://github.com/user-attachments/assets/422e61b2-2a0f-4562-8deb-61e4f224584d" />
+
