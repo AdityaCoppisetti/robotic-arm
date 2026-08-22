@@ -2036,3 +2036,6 @@ okay so i have to make the readme again and then the bom
 
 
 im making the front pcb again because i want this to be perfect
+
+
+it was hard to find 
