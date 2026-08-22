@@ -1944,3 +1944,6 @@ now when we open our schematic and see the nano pinout that we have we see that 
 
 
 <img width="584" height="588" alt="image" src="https://github.com/user-attachments/assets/b6137d99-2287-4998-9c85-a73a5f32513d" />
+
+
+here is how ive wired the switches 
