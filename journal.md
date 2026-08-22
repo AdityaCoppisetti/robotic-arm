@@ -1966,3 +1966,5 @@ now that ive added the footprints
 
 i will be updating the pcb and adding these
 
+
+ive changed the resistor footprints to the 2.57mm pinheader ones so that the resistor sits well better 
