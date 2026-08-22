@@ -1996,3 +1996,8 @@ i have exported the board in .step again aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa im ti
 
 
 i wanted to put the pcb on a angle but it seems that putting it at 90 degrees works better 
+
+
+
+<img width="1174" height="656" alt="image" src="https://github.com/user-attachments/assets/08778bfe-a832-4ec9-bd9d-3b1899f81f08" />
+
