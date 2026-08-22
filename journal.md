@@ -1949,3 +1949,6 @@ now when we open our schematic and see the nano pinout that we have we see that 
 here is how ive wired the switches 
 
 i will be now adding the net labels to the nano pinout 
+
+
+but before i do that let me tell you 
