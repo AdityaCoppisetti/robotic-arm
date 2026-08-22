@@ -1955,3 +1955,7 @@ but before i do that let me tell you
 
 the resistor ive added i didnt want to put on the main pcb but i guess it will be better than adding them in the wires and tucking them behind somewhere, 
 so for the switches and the resistors ill be adding the 1x2 pinheader footprints 
+
+
+
+now that ive added the footprints 
