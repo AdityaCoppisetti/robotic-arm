@@ -2032,3 +2032,7 @@ now i only need to create the bom and then submit the project in the hackclub's 
 
 
 okay so i have to make the readme again and then the bom 
+
+
+
+im making the front pcb again because i want this to be perfect
