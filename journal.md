@@ -2029,3 +2029,6 @@ i will not be ordering the front pcb as its super easy and i can easily make it 
 
 
 now i only need to create the bom and then submit the project in the hackclub's macondo program
+
+
+okay so i have to make the readme again and then the bom 
