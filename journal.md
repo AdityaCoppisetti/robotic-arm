@@ -1904,3 +1904,6 @@ and i will be connecting those limit switches to the microcontroller and to do t
 
 
 just look at this!
+
+
+i havent added the wiring for the limit swtiches so foolish of me now lets open our pcb schematic and add the limit swtiches 
