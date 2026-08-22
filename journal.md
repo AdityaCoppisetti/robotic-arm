@@ -1901,3 +1901,6 @@ i totally forgot i have to add the wiring for limit switches aswell
 since i will be programming my own calibration routine at startup so that every joint can find its origin point , i will be using limit switches 
 
 and i will be connecting those limit switches to the microcontroller and to do that i need to add that to the main board which i clearly haven't
+
+
+just look at this!
