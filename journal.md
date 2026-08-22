@@ -1952,3 +1952,5 @@ i will be now adding the net labels to the nano pinout
 
 
 but before i do that let me tell you 
+
+
