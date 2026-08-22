@@ -9,3 +9,8 @@ i have never before made a project like this so making this was alot of fun
 
 
 i designed this robotic arm in onshape and it uses planetary mechanism mainly but for the wrist ive made a 2dof wrist 
+
+
+
+**<img width="670" height="792" alt="image" src="https://github.com/user-attachments/assets/e3788699-8cb2-4ba2-b802-362e8b7d11f0" />
+**
