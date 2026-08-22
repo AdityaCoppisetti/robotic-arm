@@ -1927,4 +1927,5 @@ now i dont really want to crowd the main pcb with 6 different switch inputs so i
 
 here is how that works and my logic behind it. 
 
+what if i asign a specific value to each one of the switches and then connect it to the pwm pin and then when the microcontroller reads the the valiue using serial input and then knows which switch is which. 
 
