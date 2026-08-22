@@ -1970,6 +1970,9 @@ now that ive added the footprints
 
 
 
+this is the updated pcb with the limit switch pins added 
+
+
 <img width="1174" height="656" alt="image" src="https://github.com/user-attachments/assets/e13b06b0-88f9-4a32-a6ff-ebd672aa82e2" />
 
 
