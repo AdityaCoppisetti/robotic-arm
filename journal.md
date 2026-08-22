@@ -1908,3 +1908,6 @@ just look at this!
 
 i havent added the wiring for the limit swtiches so foolish of me now lets open our pcb schematic and add the limit swtiches 
 but before i do that i have to check the amount of limit switches needed and how many pins i have free in the custom arduino nano
+
+
+to check that i will have to open onshape up and then count the number of limit switch positions ive planned 
