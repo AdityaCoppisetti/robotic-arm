@@ -1918,3 +1918,6 @@ i dont need a limit switch in the gripper as im using a servo motor
 
 
 which doesnt really require me to use a limit switch as ill know the position of the spur gear
+
+
+since there are 6 degrees of freedom i will be using 6 limit switches
