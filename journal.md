@@ -2013,3 +2013,7 @@ here is how that looks like
 
 
 <img width="1174" height="656" alt="image" src="https://github.com/user-attachments/assets/2019a38d-e7a4-4cac-bbcf-b1ed22fb1f71" />
+
+
+
+now lets make the frontend where the raspberry pi zero with the screen and the 4 keyboard switches will sit 
