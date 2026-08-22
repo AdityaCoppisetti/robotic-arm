@@ -1941,3 +1941,5 @@ so for this i will be it to 2 pins with 3 switches attached to each one of these
 
 
 now when we open our schematic and see the nano pinout that we have we see that we have d10 and d11 pins free 
+
+
