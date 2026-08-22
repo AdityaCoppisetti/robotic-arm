@@ -2025,3 +2025,7 @@ literally the simplest schematic ive ever made since i wont be puttting anything
 
 
 i will not be ordering the front pcb as its super easy and i can easily make it with a perfboard 
+
+
+
+now i only need to create the bom and then submit the project in the hackclub's macondo program
