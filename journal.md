@@ -1966,7 +1966,7 @@ now that ive added the footprints
 
 
 
-this is the updated pcb with the limit switch pins added 
+
 
 
 
