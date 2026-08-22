@@ -1993,3 +1993,6 @@ the dimentions of the pcb have changed which means i will have to redesign the p
 
 
 i have exported the board in .step again aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa im tired now 
+
+
+i wanted to put the pcb on a angle but it seems that putting it at 90 degrees works better 
