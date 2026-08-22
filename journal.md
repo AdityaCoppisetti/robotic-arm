@@ -1911,3 +1911,6 @@ but before i do that i have to check the amount of limit switches needed and how
 
 
 to check that i will have to open onshape up and then count the number of limit switch positions ive planned 
+
+
+
