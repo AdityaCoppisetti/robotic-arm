@@ -2017,3 +2017,7 @@ here is how that looks like
 
 
 now lets make the frontend where the raspberry pi zero with the screen and the 4 keyboard switches will sit 
+
+
+
+literally the simplest schematic ive ever made since i wont be puttting anything besides the switches on the pcb 
