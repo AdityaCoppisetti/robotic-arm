@@ -1924,3 +1924,7 @@ since there are 6 degrees of freedom i will be using 6 limit switches
 
 
 now i dont really want to crowd the main pcb with 6 different switch inputs so i will be distributing it to just 2 pins
+
+here is how that works and my logic behind it. 
+
+
