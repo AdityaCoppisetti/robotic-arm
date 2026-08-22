@@ -1933,6 +1933,9 @@ when the microcontroller reads the the valiue using serial input and then knows 
 
 now i dont want to overcrowd the pin by adding 6 switches like that . 
 
-the way ill be adding the switches is that 
+the way ill be adding the switches is that i will be adding a resistor to the wiring of each switch so that when its pressed its going to be of a unique value which the microcontroller will read 
+
+
+so for this i will be it to 2 pins with 3 switches attached to each one of these and if in the future when i do build this and i need to add another switch , itll be very easy 
 
 
