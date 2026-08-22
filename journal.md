@@ -2021,3 +2021,7 @@ now lets make the frontend where the raspberry pi zero with the screen and the 4
 
 
 literally the simplest schematic ive ever made since i wont be puttting anything besides the switches on the pcb 
+
+
+
+i will not be ordering the front pcb as its super easy and i can easily make it with a perfboard 
