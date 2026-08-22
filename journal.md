@@ -2044,3 +2044,11 @@ but here are the specifications for the display ill be using
 
 <img width="739" height="501" alt="image" src="https://github.com/user-attachments/assets/6a7f69ac-ac16-4ddd-b3d2-c78a78c2fcd1" />
 
+
+this is my front pcb , however i wont be getting it printed but using a perfboard to make this 
+
+this is just for example 
+
+<img width="1163" height="683" alt="image" src="https://github.com/user-attachments/assets/adc2fe8c-86ff-40fc-a0c2-5524f1d5c32f" />
+
+
