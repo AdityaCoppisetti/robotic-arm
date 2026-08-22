@@ -2042,4 +2042,5 @@ it was hard to find
 
 but here are the specifications for the display ill be using 
 
+<img width="739" height="501" alt="image" src="https://github.com/user-attachments/assets/6a7f69ac-ac16-4ddd-b3d2-c78a78c2fcd1" />
 
