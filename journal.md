@@ -1939,3 +1939,5 @@ the way ill be adding the switches is that i will be adding a resistor to the wi
 so for this i will be it to 2 pins with 3 switches attached to each one of these and if in the future when i do build this and i need to add another switch , itll be very easy 
 
 
+
+now when we open our schematic and see the nano pinout that we have we see that we have d10 and d11 pins free 
