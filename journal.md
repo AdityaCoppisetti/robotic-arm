@@ -1899,3 +1899,5 @@ the front end is going to be a screen with the glossy keycaps so lets design tha
 
 
 i totally forgot i have to add the wiring for limit switches aswell 
+
+since i will be programming my own calibration routine at startup so that every joint can find its origin point , i will be using limit switches 
