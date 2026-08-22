@@ -1914,3 +1914,4 @@ to check that i will have to open onshape up and then count the number of limit 
 
 
 
+i dont need a limit switch in the gripper as im using a servo motor
