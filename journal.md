@@ -1921,3 +1921,6 @@ which doesnt really require me to use a limit switch as ill know the position of
 
 
 since there are 6 degrees of freedom i will be using 6 limit switches
+
+
+now i dont really want to crowd the main pcb with 6 different switch inputs so i will be distributing it to just 2 pins
