@@ -48,4 +48,11 @@ and then you remove the stencil and place each component by looking at the nicel
 
 <img width="948" height="460" alt="image" src="https://github.com/user-attachments/assets/f02fa1be-1578-4017-aa76-ec6c18e90adf" />
 
+and then by using a hot air gun or a hotplate , reflow the solder 
+
+
+# hot to assemble the main board pcb 
+
+you take the pcb and using a soldering iron just solder the required amount of female or male pinheaders ( 2.57mm exactly) 
+
 
