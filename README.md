@@ -59,3 +59,4 @@ you take the pcb and using a soldering iron just solder the required amount of f
 
 here is a mockup i nade using onshape of how the main pcb should look like after you assemlbe it 
 
+
