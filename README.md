@@ -56,3 +56,6 @@ and then by using a hot air gun or a hotplate , reflow the solder
 you take the pcb and using a soldering iron just solder the required amount of female or male pinheaders ( 2.57mm exactly) 
 
 
+
+here is a mockup i nade using onshape of how the main pcb should look like after you assemlbe it 
+
