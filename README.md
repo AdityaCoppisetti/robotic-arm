@@ -16,7 +16,9 @@ One of the things I want to experiment with later is turning the arm into a 3D p
 <img width="670" height="792" alt="image" src="https://github.com/user-attachments/assets/6a2e9391-9f03-4887-a278-0bece15e793b" />
 
 
-i designed this robotic arm in onshape and it uses planetary mechanism mainly but for the wrist ive made a 2dof wrist 
+i designed this robotic arm in onshape, 
+
+joint 1 - 5 uses planetary gear mechanism where the sun gear is attached to the nema 17 motor
 
 
 
