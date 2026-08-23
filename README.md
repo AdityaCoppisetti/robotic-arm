@@ -31,3 +31,21 @@ and then ive made the claw/ gripper
 which uses a servo motor attached to a spur gear which move yet 2 another spur gears
 
 <img width="884" height="548" alt="image" src="https://github.com/user-attachments/assets/45dcea9a-363b-4ae7-8a51-0cd4f4c5a6c4" />
+
+
+
+# how to assemble 
+
+print the given step files , modify them if you want to 
+
+and then look at the assembled version and piece everything together. i will be documenting my proccess aswell when i print the parts. 
+
+# how to assemble electronic part of project
+
+when you get the main pcb and then the microcontroller pcb
+you take the stencil and then use that stencil to apply solder paste. 
+and then you remove the stencil and place each component by looking at the nicely labelled pcb 
+
+<img width="948" height="460" alt="image" src="https://github.com/user-attachments/assets/f02fa1be-1578-4017-aa76-ec6c18e90adf" />
+
+
