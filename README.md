@@ -1,7 +1,7 @@
 # 6-Axis Robotic Arm
 
 This project is a custom-built 6-axis robotic arm that I designed and built from the ground up. 
-The arm has six degrees of freedom, allowing it to move similarly to a human arm. I designed the mechanical parts myself and used a combination of 3D printing, custom gears , almost each joint is a planetary mechanism since i really wanted to learn that and i learnt that in onshape .  The gripper usse MG996R V17 servo
+The arm has six degrees of freedom thus the 6DOF , I designed the mechanical parts myself and used a combination of 3D printing, custom gears ,and  almost each joint is a planetary mechanism since i really wanted to learn that and i learnt that in onshape .  The gripper usse MG996R V17 servo
 
 
 The control side of the project is a custom pcb which is handled by a custom arduino uno nano that i made . the main pcb usees a4988 stepper motor drivers to drive each and every motor and the servo motor for the gripper i have connected directly . The plan is to use forward and inverse kinematics to move to a specific point instead of manually controlling every joint.
