@@ -22,8 +22,8 @@ joint 1 - 5 uses planetary gear mechanism where the sun gear is attached to the 
 
 
 
-**<img width="670" height="792" alt="image" src="https://github.com/user-attachments/assets/e3788699-8cb2-4ba2-b802-362e8b7d11f0" />
-**
+<img width="670" height="792" alt="image" src="https://github.com/user-attachments/assets/e3788699-8cb2-4ba2-b802-362e8b7d11f0" />
+
 
 
 
