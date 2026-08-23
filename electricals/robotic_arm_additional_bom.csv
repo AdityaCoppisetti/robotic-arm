@@ -1,0 +1,34 @@
+﻿No.,Component / Item,,Price (inr),Source / Purchase Link,Price (USD)
+1,Nano PCB,,900,Robu.in,$9.40
+2,Main PCB,,1850,Robu.in,$19.33
+3,Solder Wire,,229,https://www.amazon.in/dp/B0GY9Q2VXC/ref=twister_B0GY9X7NQT?_encoding=UTF8,$2.39
+4,PLA Filament,,699,https://www.amazon.in/PLA-3D-Flexibility-Eco-Friendly-Compatible/dp/B071D82LDV/ref=sr_1_1_sspa?s=industrial&sr=1-1-spons&aref=tNmDvyWuiO&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY,$7.30
+5,NEMA 17 Stepper Motor - 17HS4401S,,3204,https://robocraze.com/products/17hs4401s-nema-17-stepper-motor?_pos=2&_psq=nema+17&_psid=cc221da5e&_ss=e,$33.48
+6,Zip Ties,,99,https://www.amazon.in/gp/product/B08GKPWLB9/ref=ewc_pr_img_4?smid=AJ6SIZC8YQDZX&psc=1,$1.03
+7,DC Power Jack Adapter - 2.1 × 5.5mm,,19,https://robu.in/product/male-female-2-15-5mm-dc-power-jack-adapter-connector-plug-cctv-camera/,$0.20
+8,12V 1.5A Power Supply,,219,https://www.amazon.in/gp/product/B0H1CTJV1Y/ref=ewc_pr_img_1?smid=A2DCS35WT32C19&psc=1,$2.29
+9,A4988 Stepper Motor Driver + Heatsink,,432,https://robocraze.com/products/original-a4988-stepper-motor-driver-module-with-heat-sink-for-3d-printer-red?_pos=4&_sid=385b9e6e2&_ss=r,$4.51
+10,5-inch HDMI Touchscreen Display - 800×480,,2359,https://robu.in/product/5-inch-touch-screen-hdmi-interface-display-module-tft-lcd-800x480-raspberry-pi-2-model-b-touch-pen/,$24.65
+11,Mechanical Switches,,399,https://www.amazon.in/gp/product/B0FPR2ML31/ref=ox_sc_act_image_2?smid=A16FKXBMFHBYH0&psc=1,$4.17
+12,Raspberry Pi Zero,,2000,"OLX.in bought it second hand , need reimbursement",$20.90
+13,608 ZZ Bearing,,265,https://www.amazon.in/608-Pieces-Double-Shields-Bearing/dp/B0H5T479XF/ref=sr_1_10?sr=8-10,$2.77
+14,1µF 0603 SMD ceramic capacitor,,55,https://robu.in/product/mc0603b105k160ct-multicomp-pro-cap-smd-mlcc-1%c2%b5f-16-v-0603-pack-of-5/,$0.57
+15,100nF 0603 SMD ceramic capacitor,,11.6,https://robu.in/product/cc0603jrx7r7bb104-yageo-16v-100nf-x7r-%c2%b15-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.12
+16,4.7µF 16V SMD capacitor,,38,https://robu.in/product/0805yc475kat2a-kyocera-avx-smd-multilayer-ceramic-capacitor-4-7-%c2%b5f-16-v-0805-2012-metric-%c2%b1-10-x7r/,$0.40
+17,Yellow 0805 SMD LED,,7.55,https://robu.in/product/0805-surface-mount-led-yellow/,$0.08
+18,Green 0805 SMD LED,,14.44,https://robu.in/product/0805-surface-mount-led-red-50-pcs/,$0.15
+19,Red 0805 SMD LED,,7.2,https://robu.in/product/0805-surface-mount-led-red-50-pcs/,$0.08
+20,MicroSMP Schottky diode,,40,https://robu.in/product/mss1p3l-m3-89a-vishay-intertech-30v-1a-440mv1a-microsmp-schottky-diodes-rohs/,$0.42
+21,0603 SMD fuse,,6.25,https://robu.in/product/1uf-1000nf-50v-capacitor-0603-smd-package-pack-of-20/,$0.07
+22,Mini USB-B female horizontal connector,,145,https://robu.in/product/u-m-m5ss-w-2-hroparts-usb-2-0-1-5p-female-mini-b-smd-usb-connectors-rohs/,$1.52
+23,"2.54mm pin header, 1×40",,69,https://robu.in/product/ds1021-1x40sf11-b-connfly-1x40-pin-2-54mm-pin-header-v-t-type/,$0.72
+24,1KΩ 0603 SMD resistor,,9,https://robu.in/product/1k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100/,$0.09
+25,"SMD tactile switch, EVQPUK-style",,45,https://robu.in/product/pts526sp20smtr2-lfs-ck-smd-tactile-switches-rohs/,$0.47
+26,"ATmega328P-M, QFN-32 5×5mm",,955,https://robu.in/product/atmega328p-mur-microchip-8-bit-mcu-low-power-high-performance-avr-atmega-family-atmega328-series-microcontrollers-avr/,$9.98
+27,"LM1117MP-5.0, SOT-223",,140,https://robu.in/product/lm1117s-5-0-5v-1a-fixed-output-ldo-linear-voltage-regulator-3-pin-sot-223/,$1.46
+28,"FT232RL, SSOP-28",,465,https://robu.in/product/ft232rl-usb-to-ttl-5v-3-3v-download-cable-to-serial-adapter-module-for-arduino/,$4.86
+29,16MHz 3-pin SMD ceramic resonator,,50,https://robu.in/product/1-month-warranty-802/,$0.52
+30,raspberry Pi Zero cables and adaptor,,142,https://robu.in/product/raspberry-pi-zero-3in1-micro-usb-cablepin-headerhdmi-adapter/,$1.48
+31,velcro for claw/ gripper,,185,https://amzn.in/d/0eumMNpg,$1.93
+,,,,,
+,,,,Total = $157.34 USD.,
