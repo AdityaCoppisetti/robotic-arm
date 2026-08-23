@@ -28,6 +28,6 @@ joint 1 - 5 uses planetary gear mechanism where the sun gear is attached to the 
 
 
 and then ive made the claw/ gripper 
-
+which uses a servo motor attached to a spur gear which move yet 2 another spur gears
 
 <img width="884" height="548" alt="image" src="https://github.com/user-attachments/assets/45dcea9a-363b-4ae7-8a51-0cd4f4c5a6c4" />
